@@ -436,22 +436,39 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:i
 http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
-#EXTINF:0, MTV
-http://rtrmsrv22.gq:80/bandeira1/123456/192?checkedby:iptvcat.com
-#EXTINF:0, 9xm
-http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
-#EXTINF:0, Sony HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_1200.m3u8
-#EXTINF:0, Sony Max Hd
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8
-#EXTINF:0, SAB_HD 
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
 
-#EXTINF:0, MTV Hits
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd?checkedby:iptvcat.com
-
-#EXTINF:0, Paigham TV
-http://125.209.77.130:1935/live/livestream1/playlist.m3u8
+EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies
+http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
+http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
+http://reds.ppdn.tn/iptv/ch1701?code=840016827610293&key=45492
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
+http://reds.ppdn.tn/iptv/ch1717?code=840016827610293&key=27433
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
+http://reds.ppdn.tn/iptv/ch1702?code=840016827610293&key=46095
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
+http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2021.png",HUM Masal
+http://reds.ppdn.tn/iptv/ch2021?code=840016827610293&key=60154
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
+http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2035.png",Star Gold
+http://reds.ppdn.tn/iptv/ch2035?code=840016827610293&key=57843
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2036.png",Star Hbarat
+http://reds.ppdn.tn/iptv/ch2036?code=840016827610293&key=22479
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2037.png",Star Plus
+http://reds.ppdn.tn/iptv/ch2037?code=840016827610293&key=54632
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2038.png",colors_asia
+http://reds.ppdn.tn/iptv/ch2038?code=840016827610293&key=26077
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1754.png",Rishtey
+http://reds.ppdn.tn/iptv/ch1754?code=840016827610293&key=35894
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1755.png",Rishtey cine
+http://reds.ppdn.tn/iptv/ch1755?code=840016827610293&key=14157
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1718.png",PTV Punjabi
+http://reds.ppdn.tn/iptv/ch1718?code=840016827610293&key=44417
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1726.png",PTV Global
+http://reds.ppdn.tn/iptv/ch1726?code=840016827610293&key=58756
 
 
 
