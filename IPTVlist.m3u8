@@ -437,7 +437,7 @@ http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
 
-EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies
+EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies 22
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
@@ -465,7 +465,7 @@ http://reds.ppdn.tn/iptv/ch2038?code=840016827610293&key=26077
 http://reds.ppdn.tn/iptv/ch1754?code=840016827610293&key=35894
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1755.png",Rishtey cine
 http://reds.ppdn.tn/iptv/ch1755?code=840016827610293&key=14157
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1718.png",PTV Punjabi
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1718.png",PTC Punjabi
 http://reds.ppdn.tn/iptv/ch1718?code=840016827610293&key=44417
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1726.png",PTV Global
 http://reds.ppdn.tn/iptv/ch1726?code=840016827610293&key=58756
