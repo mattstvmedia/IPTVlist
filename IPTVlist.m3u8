@@ -256,16 +256,6 @@ http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/429?checkedby:iptvcat.com
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/432?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Sony Sci-Fi
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CANAL SONY HD²
-http://4tv.site:80/live/douglas1155/4187731155/34995.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CANAL SONY SD²
-http://4tv.site:80/live/douglas1155/4187731155/35282.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CANAL SONY HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18210.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Canal Sony Full HD
-http://201.87.232.214:25461/marcondes/101010/14152?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CANAL SONY SD¹
-http://4tv.site:80/live/douglas1155/4187731155/17891.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Movies
 http://51.52.156.22:8888/http/009?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Movie Channel
@@ -354,12 +344,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?checkedby:iptvcat.co
 http://hlstv.kem.211.ru/239.211.211.24/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior Full HD
 http://201.87.232.214:25461/marcondes/101010/16214?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior HD.
-http://201.87.232.214:25461/marcondes/101010/13921?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior SD.
 http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Канал Disney
 http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney channel
@@ -368,10 +354,6 @@ http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/386?checkedby:iptvcat.com
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8472?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
 http://top-quality.net:80/alibaba/alibaba/86224?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18247.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 SD¹
-http://4tv.site:80/live/douglas1155/4187731155/17934.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
 http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
@@ -420,3 +402,73 @@ http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/887.m3u8?checkedby:i
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/887.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO 2 HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18242.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO FAMILY HD²
+http://4tv.site:80/live/douglas1155/4187731155/34489.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO + Plus SD Dub
+http://201.87.232.214:25461/marcondes/101010/14247?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18244.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",24H DRAGONBALL CLASSICO
+http://4tv.site:80/live/douglas1155/4187731155/35743.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",24H DRAGONBALL SUPER H265
+http://4tv.site:80/live/douglas1155/4187731155/35815.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H SCOOBY-DOO & SCOOBY-LOO
+http://4tv.site:80/live/douglas1155/4187731155/35753.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H THUNDER CATS
+http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TRANSFORMERS
+http://4tv.site:80/live/douglas1155/4187731155/35787.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TOM & JERRY CLASSICO
+http://4tv.site:80/live/douglas1155/4187731155/27150.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18206.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",BOOMERANG SD¹
+http://4tv.site:80/live/douglas1155/4187731155/17888.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD²
+http://4tv.site:80/live/douglas1155/4187731155/34443.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18211.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CARTOON NETWORK SD¹
+http://4tv.site:80/live/douglas1155/4187731155/17893.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network HD.
+http://201.87.232.214:25461/marcondes/101010/13908?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network Full HD
+http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax Full HD
+http://201.87.232.214:25461/marcondes/101010/14143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax SD.
+http://201.87.232.214:25461/marcondes/101010/14141?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18215.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="http://logo.ddnb.tn/logochanel/Dragonheart_Vengeance_2020_en.mp4.png" group-title="Undefined",Dragonheart Vengeance
+http://reds.ppdn.tn/vod/Dragonheart_Vengeance_2020_en.mp4?code=460134681276956&key=54076&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN .::4K
+http://201.87.232.214:25461/marcondes/101010/14330?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD NETWORK HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18230.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub
+http://201.87.232.214:25461/marcondes/101010/16426?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO Xtreme HD.
+http://201.87.232.214:25461/marcondes/101010/14185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 SD²
+http://4tv.site:80/live/douglas1155/4187731155/35262.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD¹
+http://4tv.site:80/live/douglas1155/4187731155/18248.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Undefined",ZEE Mundo,Zee mundo (India)
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
+http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
