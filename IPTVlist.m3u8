@@ -436,3 +436,7 @@ http://top-quality.net:80/alibaba/alibaba/86224?checkedby:iptvcat.com
 http://4tv.site:80/live/douglas1155/4187731155/18247.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 SD¹
 http://4tv.site:80/live/douglas1155/4187731155/17934.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+ 
