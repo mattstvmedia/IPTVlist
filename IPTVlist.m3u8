@@ -276,8 +276,6 @@ http://92.249.148.48:8001/play/a00e?checkedby:iptvcat.com
 http://iptv1.privateiptv.club:80/live/freeview/freeview/57.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Cartoon Network
 http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",CARTOON NETWOORK
-http://topiptv.net:5890/hamza2020/hamza2020/55638?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArRBj.png" group-title="Undefined",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network .::4K
@@ -326,70 +324,20 @@ http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3747?checkedby:iptvcat.com
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3748?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids;Undefined",Disney Junior Asia,Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Disney Channel
-http://ui.k93c.com:3356/enis/enis123/4080?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",Disney Junior
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8756?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY JUNIOR FR
-http://dimapro.cz:8080/live/522bnbccddxcgfdc/GAacHX257Y/509.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney Junior FHD
-http://ui.k93c.com:3356/enis/enis123/909?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney XD FHD
-http://ui.k93c.com:3356/enis/enis123/911?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Channel
-http://ui.k93c.com:3356/enis/enis123/168?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Cinemagic DE
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/337?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Jr. DE
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/336?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Junior
-http://ui.k93c.com:3356/enis/enis123/169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",(GR) Disney Junior
-http://p.dtv.sx:80/live/visiontv/775142/19764.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Disney XD
-http://x12tv.co:80/iptvdroid_958424/bVcu8viA/52530?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Disney Channel FHD
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8322?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://topiptv.net:5890/hamza2020/hamza2020/1005?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",VERONICA/DISNEYXD FHD
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8316?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica/Disney XD
-http://topiptv.net:5890/hamza2020/hamza2020/992?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Channel
-http://ui.k93c.com:3356/enis/enis123/722?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
-http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney XD
-http://ui.k93c.com:3356/enis/enis123/721?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://tv.sigma-iptv.com:7000/christine/christine/246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://topiptv.net:5890/hamza2020/hamza2020/1042?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
-http://tv.sigma-iptv.com:7000/christine/christine/245?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
-http://topiptv.net:5890/hamza2020/hamza2020/1048?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Disney Channel
-http://livegopanel.club:8080/jamesbell/jamesbell123/4493?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Disney Junior
-http://livegopanel.club:8080/jamesbell/jamesbell123/3661?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://topiptv.net:5890/hamza2020/hamza2020/939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY CHANNEL FHD
-http://topiptv.net:5890/hamza2020/hamza2020/938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
-http://tv.sigma-iptv.com:7000/christine/christine/100?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY JR
-http://tv.sigma-iptv.com:7000/christine/christine/98?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY JR
 http://topiptv.net:5890/hamza2020/hamza2020/940?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
 http://94.46.195.170:9000/disneychannel/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Disney Channel
-http://pluskor.com:8080/adem.bas87/03m09p19x/706?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD¹
 http://4tv.site:80/live/douglas1155/4187731155/18223.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISNEY CHANNEL SD¹
@@ -414,29 +362,61 @@ http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Канал Disney
 http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney Junior
-http://stariptv.top:2086/87025/87025/24908?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney XD HD
-http://stariptv.top:2086/87025/87025/24907?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
-http://tv.sigma-iptv.com:7000/christine/christine/575548049?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney
-http://ui.k93c.com:3356/enis/enis123/962?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Jr
-http://ui.k93c.com:3356/enis/enis123/1179?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney channel
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/386?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8472?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel HD
-http://ui.k93c.com:3356/enis/enis123/1823?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
 http://top-quality.net:80/alibaba/alibaba/86224?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 HD¹
 http://4tv.site:80/live/douglas1155/4187731155/18247.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 SD¹
 http://4tv.site:80/live/douglas1155/4187731155/17934.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,Sony SAB TV
-rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
- 
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
+http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
+http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE BOLLYWOOD
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Кино",Zee TV
+http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV
+http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Film1 Family FHD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8341?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FILMBOX Action
+http://stariptv.top:2086/87025/87025/17857?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat Film Action HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3711?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",classicfilms
+https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS 2 SD²
+http://4tv.site:80/live/douglas1155/4187731155/35179.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS FHD H265
+http://brasiltv.pro:8080/conceicao/conceicao/5357?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 Gold HD
+http://top-quality.net:80/alibaba/alibaba/86036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" group-title="Music",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music;Undefined",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",BN MUSIC
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/887.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",BN MUSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/887.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
