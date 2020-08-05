@@ -472,3 +472,18 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?checkedby:iptvcat.
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
 http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SonyMax
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/178.ts 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony Sab 
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/176.ts 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony TV
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/173.ts
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony Wah
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/172.ts 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined", Zee MP
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/171.ts 
+ #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/165.ts 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV HD
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/163.ts  
