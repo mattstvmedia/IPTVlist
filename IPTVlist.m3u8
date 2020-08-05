@@ -436,25 +436,19 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:i
 http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
-
-
-#EXTINF:0, Cartoon Network USA
-http://rtrmsrv22.gq:80/bandeira1/123456/39?checkedby:iptvcat.com
-
+#EXTINF:0, MTV
+http://rtrmsrv22.gq:80/bandeira1/123456/192?checkedby:iptvcat.com
 #EXTINF:0, 9xm
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
-
 #EXTINF:0, Sony HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_1200.m3u8
-
 #EXTINF:0, Sony Max Hd
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8
-
 #EXTINF:0, SAB_HD 
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
 
-#EXTINF:0, Islam TV
-rtsp://wowza04.sharp-stream.com/islamtv/islamtv
+#EXTINF:0, MTV Hits
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
 #EXTINF:0, Paigham TV
 http://125.209.77.130:1935/live/livestream1/playlist.m3u8
