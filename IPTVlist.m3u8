@@ -473,8 +473,7 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
 http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SonyMax
-http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/178.ts 
+
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony Sab 
 http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/176.ts 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sony TV
@@ -487,3 +486,11 @@ http://mo-salah.net:8880/lank/lank/252289
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Masala Tv
 https://www.youtube.com/watch?v=VzMxDDp4mJY&feature=emb_logo
+#EXTINF:-1,Sony Max
+http://144.91.85.251:25461/mdmurshedalom/akwDtbRVgl/868
+#EXTINF:-1,Sony MAX HD
+http://144.91.85.251:25461/mdmurshedalom/akwDtbRVgl/147
+#EXTINF:-1,Sony Max 2
+http://144.91.85.251:25461/mdmurshedalom/akwDtbRVgl/186
+#EXTINF:-1,Sony Sab
+http://144.91.85.251:25461/mdmurshedalom/akwDtbRVgl/657
