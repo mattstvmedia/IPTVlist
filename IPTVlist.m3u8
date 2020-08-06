@@ -430,14 +430,19 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?checkedby:iptvcat.
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
 http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Masti 
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Undefined",Masti 
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Plus
 http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
 
-EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies 22
+
+#EXTINF:-1,NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies 22
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
@@ -449,7 +454,7 @@ http://reds.ppdn.tn/iptv/ch1717?code=840016827610293&key=27433
 http://reds.ppdn.tn/iptv/ch1702?code=840016827610293&key=46095
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
 http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2021.png",HUM Masal
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2021.png",HUM Masala
 http://reds.ppdn.tn/iptv/ch2021?code=840016827610293&key=60154
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
