@@ -434,14 +434,14 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:i
 http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="Undefined",NAT GEOGRAPHIC
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
-#EXTINF:0,NATIONAL GEOGRAPHIC WILD
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies22
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="Undefined",NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
+#EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
