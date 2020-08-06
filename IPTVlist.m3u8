@@ -320,7 +320,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvca
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Кино",Zee TV
+#EXTINF:0 tvg-country="in" tvg-logo="http://only-tv.org/images/zee.png" group-title="Кино",Zee TV
 http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV
 http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
@@ -470,9 +470,8 @@ http://reds.ppdn.tn/iptv/ch1754?code=840016827610293&key=35894
 http://reds.ppdn.tn/iptv/ch1755?code=840016827610293&key=14157
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1718.png",PTC Punjabi
 http://reds.ppdn.tn/iptv/ch1718?code=840016827610293&key=44417
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1726.png",PTV Global
-http://reds.ppdn.tn/iptv/ch1726?code=840016827610293&key=58756
-
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png,Cartoon Network
+http://50.7.120.165:8081/cartoon/index.m3u8?wmsAuthSign=9c34c58f80fb56147b7060db8f96e7c3-1596742635-2i141i381i281
 
 
 
