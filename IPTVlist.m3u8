@@ -452,8 +452,7 @@ http://reds.ppdn.tn/iptv/ch1717?code=840016827610293&key=27433
 http://reds.ppdn.tn/iptv/ch1702?code=840016827610293&key=46095
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
 http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2021.png",HUM Masala
-http://reds.ppdn.tn/iptv/ch2021?code=840016827610293&key=60154
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2035.png",Star Gold
@@ -461,11 +460,11 @@ http://reds.ppdn.tn/iptv/ch2035?code=840016827610293&key=57843
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2036.png",Star Hbarat
 http://reds.ppdn.tn/iptv/ch2036?code=840016827610293&key=22479
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2037.png",Masala Tv
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png",Masala Tv
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/chunklist_w749564548_b748000_slEng.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
 
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2038.png",PTV Home
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvhomelogo.png",PTV Home
 https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b748000_slEng.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
