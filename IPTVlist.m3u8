@@ -466,8 +466,8 @@ http://reds.ppdn.tn/iptv/ch2037?code=840016827610293&key=54632
 http://reds.ppdn.tn/iptv/ch2038?code=840016827610293&key=26077
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1754.png",Rishtey
 http://reds.ppdn.tn/iptv/ch1754?code=840016827610293&key=35894
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1755.png",GEO NEWS LIVE
-https://youtu.be/bnVQETf4FdQ
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png",Masala Tv
+https://r1---sn-2uja-0xue.googlevideo.com/videoplayback?expire=1596747458&ei=YhosX77MFuu5mLAPnNuk8Ao&ip=182.183.141.2&id=VzMxDDp4mJY.1&itag=134&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=gH&mm=44%2C29&mn=sn-2uja-0xue%2Csn-4wg7ln7d&ms=lva%2Crdu&mv=m&mvi=1&pl=17&gcr=pk&initcwndbps=188750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1596725719&fvip=1&keepalive=yes&fexp=23883098&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAK7XKtQnHllxATmQtGFZnE0WRbV-5EZZDkI6pzEKzx8VAiBsFnqae2YyY8MunhveGbQr3SnZn19OjRuiWZhEUsOnkg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIn6HmCo1bw5DA8bsEhkdvETJi2t4LXWLMWOJQGWedojAiBPHgW1nRPV9NacW7my2N3VKQBV7n8YFJOXHKqsj5aiKg%3D%3D&alr=yes&cpn=ZcuKXixRbWFXKSSL&cver=20200805&headm=3&rn=3
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/paramount-channel.png",Paramount Channel
 http://50.7.222.90:8081/param_chanel/index.m3u8?wmsAuthSign=cab97bd4ba1bc1cda2c2a88706df09db-1596742822-2i141i381i281
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png,Cartoon Network
