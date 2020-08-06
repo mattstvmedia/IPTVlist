@@ -500,6 +500,9 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com&che
 #EXTINF:0 tvg-country="UN" tvg-logo="https://aryqtv.tv/wp-content/uploads/2018/04/ARY-QTV-Logo.jpg" group-title="Undefined",ARY QTV
 https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-country="UN" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Undefined",ARY Zindagi
+https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
 
