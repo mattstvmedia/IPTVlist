@@ -460,16 +460,23 @@ http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 http://reds.ppdn.tn/iptv/ch2035?code=840016827610293&key=57843
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2036.png",Star Hbarat
 http://reds.ppdn.tn/iptv/ch2036?code=840016827610293&key=22479
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2037.png",Star Plus
-http://reds.ppdn.tn/iptv/ch2037?code=840016827610293&key=54632
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2038.png",colors_asia
-http://reds.ppdn.tn/iptv/ch2038?code=840016827610293&key=26077
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1754.png",Rishtey
-http://reds.ppdn.tn/iptv/ch1754?code=840016827610293&key=35894
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2037.png",Masala Tv
+https://streams.simpaisa.com:8443/pitvlive3/masala.smil/chunklist_w749564548_b748000_slEng.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2038.png",PTV Home
+https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
+https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/filmbox.png",FilmBox
 http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258d604bfe2-1596744640-2i141i381i281
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/paramount-channel.png",Paramount Channel
 http://50.7.222.90:8081/param_chanel/index.m3u8?wmsAuthSign=cab97bd4ba1bc1cda2c2a88706df09db-1596742822-2i141i381i281
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network
 http://50.7.120.165:8081/cartoon/index.m3u8?wmsAuthSign=9c34c58f80fb56147b7060db8f96e7c3-1596742635-2i141i381i281
 
