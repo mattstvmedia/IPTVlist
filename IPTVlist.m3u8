@@ -489,7 +489,9 @@ https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w5730415
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png",Play Entertainment
+https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/chunklist_w1225187589_b748000_slEng.m3u8
 
-
-
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png",HUM Sitare
+https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/chunklist_w293327605_b748000_slEng.m3u8??
 
