@@ -470,7 +470,7 @@ http://reds.ppdn.tn/iptv/ch1754?code=840016827610293&key=35894
 http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258d604bfe2-1596744640-2i141i381i281
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/paramount-channel.png",Paramount Channel
 http://50.7.222.90:8081/param_chanel/index.m3u8?wmsAuthSign=cab97bd4ba1bc1cda2c2a88706df09db-1596742822-2i141i381i281
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png,Cartoon Network
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network
 http://50.7.120.165:8081/cartoon/index.m3u8?wmsAuthSign=9c34c58f80fb56147b7060db8f96e7c3-1596742635-2i141i381i281
 
 
