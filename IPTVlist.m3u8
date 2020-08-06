@@ -447,15 +447,18 @@ http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
 http://reds.ppdn.tn/iptv/ch1701?code=840016827610293&key=45492
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://reds.ppdn.tn/iptv/ch1717?code=840016827610293&key=27433
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
-http://reds.ppdn.tn/iptv/ch1702?code=840016827610293&key=46095
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
 http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
+http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2035.png",Star Gold
-http://reds.ppdn.tn/iptv/ch2035?code=840016827610293&key=57843
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2035.png",Star Gold HD
+http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
+
 
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Tv
