@@ -40,8 +40,7 @@ http://playlive.goonj.pk/bolweb_480p/index.m3u8?checkedby:iptvcat.com
 https://playlive.goonj.pk/bolweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/W2s0lGP.png" group-title="News",BOL News
 https://playlive.goonj.pk/bolweb_360p/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="Undefined",Dawn News
 http://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="News",Dawn News
@@ -64,8 +63,7 @@ https://playlive.goonj.pk/expressentweb_480p/index.m3u8?checkedby:iptvcat.com
 https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/ti3KObC.png" group-title="Undefined",Express TV
 https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="Undefined",Eye 95 America (US)
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Undefined",Film World
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Undefined",Filmax
@@ -438,11 +436,11 @@ http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
 
 
-#EXTINF:0,NAT GEOGRAPHIC
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="Undefined",NAT GEOGRAPHIC
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
 #EXTINF:0,NATIONAL GEOGRAPHIC WILD
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies 22
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies22
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
