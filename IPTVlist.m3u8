@@ -471,6 +471,9 @@ https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
+https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/filmbox.png",FilmBox
 http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258d604bfe2-1596744640-2i141i381i281
 
