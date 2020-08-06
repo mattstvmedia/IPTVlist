@@ -382,8 +382,7 @@ http://4tv.site:80/live/douglas1155/4187731155/35787.m3u8?checkedby:iptvcat.com
 http://4tv.site:80/live/douglas1155/4187731155/27150.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD¹
 http://4tv.site:80/live/douglas1155/4187731155/18206.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ARY Family
-http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
@@ -495,3 +494,8 @@ https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/chunklist_w1225187589_b
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png",HUM Sitare
 https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/chunklist_w293327605_b748000_slEng.m3u8??
 
+#EXTINF:0 tvg-country="UN" tvg-logo="http://aryfamily.co.uk/uploads/2018/01/70x84.png" group-title="Undefined",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
+live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
