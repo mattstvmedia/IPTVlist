@@ -438,9 +438,9 @@ http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
 
 
-#EXTINF:-1,NAT GEOGRAPHIC
+#EXTINF:0,NAT GEOGRAPHIC
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies 22
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
