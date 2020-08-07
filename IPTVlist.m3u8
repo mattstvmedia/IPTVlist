@@ -341,8 +341,8 @@ http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/887.m3u8?checkedby:i
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/887.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO 2 HD¹
 http://4tv.site:80/live/douglas1155/4187731155/18242.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO FAMILY HD²
@@ -475,6 +475,12 @@ https://streams.simpaisa.com:8443/pitvlive3/ptvworld.smil/chunklist_w1169719497_
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvhomelogo.png",PTV Home
 https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b748000_slEng.m3u8
 
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV Urdu
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-country="AL" tvg-url="" group-title="Albanian",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/filmbox.png",FilmBox
 http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258d604bfe2-1596744640-2i141i381i281
 
@@ -512,7 +518,7 @@ https://live.arydigital.tv/33caf346-43b5-469c-8b5c-7fdf857dae43
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
 http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE BOLLYWOOD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Undefined",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema
@@ -521,15 +527,16 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat
 #EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="in" tvg-logo="http://only-tv.org/images/zee.png" group-title="Кино",Zee TV4
+#EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zee TV RU
 http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV44
-http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
 https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV44
+http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
+
 
