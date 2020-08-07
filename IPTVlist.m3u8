@@ -166,14 +166,11 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvc
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 1
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
 https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR PLUS HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR PLUS SD
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Star
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Star Cinema HD
@@ -452,13 +449,25 @@ http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 
 
-
+#EXTINF:0 tvg-country="UN" tvg-logo="https://en.wikipedia.org/wiki/StarPlus#/media/File:StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://en.wikipedia.org/wiki/StarPlus#/media/File:StarPlus_logo.jpg" group-title="Undefined",STAR PLUS SD
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2035.png",Star Gold HD
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR WORLD (IN):-
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="English",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg",Star Gold SD
 http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Undefined",STAR GOLD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
