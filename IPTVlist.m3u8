@@ -427,11 +427,8 @@ http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
-http://reds.ppdn.tn/iptv/ch1701?code=840016827610293&key=45492
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
-http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
@@ -439,11 +436,10 @@ http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS SD
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="Undefined",STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
@@ -454,11 +450,22 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg",Star Gold SD
 http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Undefined",STAR GOLD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Undefined",STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
+http://hdonline.ml:80/rana/rana/7184?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
+http://hdonline.ml:80/rana/rana/7028?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
+http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Tv
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/chunklist_w749564548_b748000_slEng.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
@@ -515,9 +522,6 @@ https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 https://live.arydigital.tv/33caf346-43b5-469c-8b5c-7fdf857dae43
 
 
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
-http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Undefined",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
 
@@ -535,6 +539,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
 https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
+http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV44
 http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
