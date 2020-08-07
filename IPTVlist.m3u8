@@ -449,9 +449,9 @@ http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://en.wikipedia.org/wiki/StarPlus#/media/File:StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://en.wikipedia.org/wiki/StarPlus#/media/File:StarPlus_logo.jpg" group-title="Undefined",STAR PLUS SD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS SD
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
