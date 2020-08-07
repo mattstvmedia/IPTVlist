@@ -519,7 +519,7 @@ https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
-https://live.arydigital.tv/33caf346-43b5-469c-8b5c-7fdf857dae43
+http://hdonline.ml:80/y1/y1/7037
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Undefined",ZEE BOLLYWOOD
@@ -541,17 +541,4 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) InSync (S)
-http://hdonline.ml:80/rana/rana/7178?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) SAB TV (S)
-http://hdonline.ml:80/rana/rana/7058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) Vaani TV (S)
-http://hdonline.ml:80/rana/rana/7153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) Zing (S)
-http://hdonline.ml:80/rana/rana/7169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian Halla Bol! (Hindi) (S)
-http://hdonline.ml:80/rana/rana/7167?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian Sony Marathi (S)
-http://hdonline.ml:80/rana/rana/7062?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(Urdu) ARY News (S)
-http://hdonline.ml:80/rana/rana/7042?checkedby:iptvcat.com
+
