@@ -515,19 +515,19 @@ http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE cinema
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="in" tvg-logo="http://only-tv.org/images/zee.png" group-title="Кино",Zee TV
+#EXTINF:0 tvg-country="in" tvg-logo="http://only-tv.org/images/zee.png" group-title="Кино",Zee TV4
 http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV44
 http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 1
+#EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
