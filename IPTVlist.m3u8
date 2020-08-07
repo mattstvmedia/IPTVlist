@@ -1,82 +1,45 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music1
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music
-http://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News1
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News SD
 https://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News2
-https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News3
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News4
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Undefined",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News HD PLUS
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Undefined",Aaj Entertainment1
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Undefined",Aaj Entertainment SD
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Undefined",Aaj Entertainment2
-http://playlive.goonj.pk/aajentweb_360p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/shVEz5N.jpg" group-title="News",Aaj News12
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/shVEz5N.jpg" group-title="News",Aaj News SD
 https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/shVEz5N.jpg" group-title="Undefined",Aaj News112
-http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="Undefined",Aplus12
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="Undefined",Aplus SD
 https://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="Undefined",Aplus1
-http://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com
-
-
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Undefined",BOL Entertainment Sd
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Undefined",BOL Entertainment SD
 http://playlive.goonj.pk/bolentweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Undefined",BOL Entertainment
-https://playlive.goonj.pk/bolentweb_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="Undefined",BOL News
 http://playlive.goonj.pk/bolweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="News",BOL News Sd
-https://playlive.goonj.pk/bolweb_480p/index.m3u8?checkedby:iptvcat.com
-
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="Undefined",Dawn News SD
 http://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="News",Dawn News
-https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/eL2pmZL.jpg" group-title="Undefined",Dunya SD
 http://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/eL2pmZL.jpg" group-title="Undefined",Dunya
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/eL2pmZL.jpg" group-title="Undefined",Dunya HD
 https://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Undefined",Dunya News Sd
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="News",Dunya News
-https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Undefined",Express Entertainment
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Undefined",Express Entertainment SD
 http://playlive.goonj.pk/expressentweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Undefined",Express Entertainment SD
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Undefined",Express Entertainment HD
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="Undefined",Express TV SD
@@ -128,296 +91,158 @@ http://playlive.goonj.pk/samaaweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/DXn57cB.jpg" group-title="Undefined",Samaa TV
 https://playlive.goonj.pk/samaaweb_480p/index.m3u8?checkedby:iptvcat.com
 
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
-http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
-
-
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
-
-
-
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
-
+=========================================================================================================================================================================
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg" group-title="Undefined",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="Music",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="Music",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Undefined",Masti 
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="Undefined",Dhamaal
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dil Se
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="Undefined",Hungama Digital Network
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/45232.png" group-title="Comedy",IBC Comedy
-https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png" group-title="Kids",IBC Kids
-https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png" group-title="Music",IBC Music
-https://ibcmusic-live.ibctamil.com/transcode/music.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Undefined",IN | Shemaroo Bollywood Classic,Shemaroo Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/t1O83T7.jpg" group-title="Undefined",IN | Shemaroo Punjabi TV,Shemaroo Punjabi TV
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Music",Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png" group-title="News",Media One
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",PUNJAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="Undefined",Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Urdu TV Toronto
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ISAAC TV (Urdu TV Toronto)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby:iptvcat.com
 
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Star
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Star Cinema HD
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR GOLD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR WORLD (IN):-
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Cinema HD
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Jalsha
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Jalsha
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TR │ STAR HD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/69.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CineStar Premiere 2 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/430?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CineStar Premiere 1 HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/431?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Cinestar Action
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/433?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CineStar TV
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/429?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",CineStar Fantasy
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/432?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Sony Sci-Fi
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Movies
-http://51.52.156.22:8888/http/009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Movie Channel
-http://92.249.148.48:8001/play/a00d?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Max
-http://92.249.148.48:8001/play/a00e?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies Action (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/57.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Cartoon Network
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Cartoon Network Rus
 http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network
+http://50.7.120.165:8081/cartoon/index.m3u8?wmsAuthSign=9c34c58f80fb56147b7060db8f96e7c3-1596742635-2i141i381i281
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
+https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
+https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network HD.
+http://201.87.232.214:25461/marcondes/101010/13908?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArRBj.png" group-title="Undefined",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network .::4K
-http://201.87.232.214:25461/marcondes/101010/16206?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3684?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",Disney XD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8755?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8757?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Disney
-http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Disney Channel
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8469?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://top-quality.net:80/alibaba/alibaba/86240?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Junior HD
-http://top-quality.net:80/alibaba/alibaba/86241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney XD
-http://top-quality.net:80/alibaba/alibaba/86242?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney
-http://stream3.kuvalda.tv/hls/disney.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney+4
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney XD HD.
-http://201.87.232.214:25461/marcondes/101010/13919?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney XD Full HD
-http://201.87.232.214:25461/marcondes/101010/16215?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel SD.
-http://201.87.232.214:25461/marcondes/101010/13922?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel Full HD
-http://201.87.232.214:25461/marcondes/101010/16213?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel
-http://176.10.117.3:5000/play/a038?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney +2
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?version=2&offset=-18000&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISNEY JUNIOR SD¹
-http://4tv.site:80/live/douglas1155/4187731155/17903.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Disney XD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3749?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Disney Junior
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3747?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Disney Channel
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3748?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids;Undefined",Disney Junior Asia,Disney Junior Indonesia
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",Disney Junior
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8756?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Jr. DE
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/336?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids",DISNEY JUNIOR Indo SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Disney Channel FHD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8322?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",VERONICA/DISNEYXD FHD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8316?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY JR
-http://topiptv.net:5890/hamza2020/hamza2020/940?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
-http://94.46.195.170:9000/disneychannel/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18223.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISNEY CHANNEL SD¹
-http://4tv.site:80/live/douglas1155/4187731155/17902.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISNEY JUNIOR SD²
-http://4tv.site:80/live/douglas1155/4187731155/35243.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney +6
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?version=2&offset=-3600&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney +7
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel
-http://hlstv.kem.211.ru/239.211.211.24/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior Full HD
-http://201.87.232.214:25461/marcondes/101010/16214?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior SD.
-http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Канал Disney
-http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney channel
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/386?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8472?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
-http://top-quality.net:80/alibaba/alibaba/86224?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
-http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Film1 Family FHD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8341?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FILMBOX Action
-http://stariptv.top:2086/87025/87025/17857?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat Film Action HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3711?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",classicfilms
-https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS 2 SD²
-http://4tv.site:80/live/douglas1155/4187731155/35179.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS FHD H265
-http://brasiltv.pro:8080/conceicao/conceicao/5357?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 Gold HD
-http://top-quality.net:80/alibaba/alibaba/86036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" group-title="Music",Public Music
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music;Undefined",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",BN MUSIC
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/887.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",BN MUSIC
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/887.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO 2 HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18242.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO FAMILY HD²
-http://4tv.site:80/live/douglas1155/4187731155/34489.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO + Plus SD Dub
-http://201.87.232.214:25461/marcondes/101010/14247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18244.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",24H DRAGONBALL CLASSICO
-http://4tv.site:80/live/douglas1155/4187731155/35743.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",24H DRAGONBALL SUPER H265
-http://4tv.site:80/live/douglas1155/4187731155/35815.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H SCOOBY-DOO & SCOOBY-LOO
-http://4tv.site:80/live/douglas1155/4187731155/35753.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H THUNDER CATS
-http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TRANSFORMERS
-http://4tv.site:80/live/douglas1155/4187731155/35787.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TOM & JERRY CLASSICO
-http://4tv.site:80/live/douglas1155/4187731155/27150.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18206.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
-https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",BOOMERANG SD¹
-http://4tv.site:80/live/douglas1155/4187731155/17888.m3u8?checkedby:iptvcat.com
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
+http://akamaizedx.com:80/lulalele/1324zcbv/10045771?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network Full HD
 http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax Full HD
-http://201.87.232.214:25461/marcondes/101010/14143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax SD.
-http://201.87.232.214:25461/marcondes/101010/14141?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Disney RU
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18215.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney PY
+http://stream3.kuvalda.tv/hls/disney.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="http://logo.ddnb.tn/logochanel/Dragonheart_Vengeance_2020_en.mp4.png" group-title="Undefined",Dragonheart Vengeance
-http://reds.ppdn.tn/vod/Dragonheart_Vengeance_2020_en.mp4?code=460134681276956&key=54076&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney XD Full HD
+http://201.87.232.214:25461/marcondes/101010/16215?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel
+http://176.10.117.3:5000/play/a038?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids;Undefined",Disney Junior Asia,Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",VERONICA/DISNEYXD FHD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8316?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
+http://94.46.195.170:9000/disneychannel/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel
+http://hlstv.kem.211.ru/239.211.211.24/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior Full HD
+http://201.87.232.214:25461/marcondes/101010/16214?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior SD.
+http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
+http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Dragon Ball Z Kai (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H SCOOBY-DOO & SCOOBY-LOO
+http://4tv.site:80/live/douglas1155/4187731155/35753.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H THUNDER CATS
+http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TRANSFORMERS
+http://4tv.site:80/live/douglas1155/4187731155/35787.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TOM & JERRY CLASSICO
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Superman
+https://cdn.alarab.com/480/123230_480p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",batman
+https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.com
+
+====================================================================================================================================================
+
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Film1 Family FHD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/243.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FILM1Action
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/242.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat Film Action HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3711?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", Classic English Old films
+https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS FHD H265
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN .::4K
-http://201.87.232.214:25461/marcondes/101010/14330?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD NETWORK HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18230.m3u8?checkedby:iptvcat.com
+http://akamaizedx.com:80/lulalele/1324zcbv/9610?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub
 http://201.87.232.214:25461/marcondes/101010/16426?checkedby:iptvcat.com
@@ -425,40 +250,117 @@ http://201.87.232.214:25461/marcondes/101010/16426?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO Xtreme HD.
 http://201.87.232.214:25461/marcondes/101010/14185?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO 2 HD¹
+http://akamaizedx.com:80/lulalele/1324zcbv/4769?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO FAMILY HD²
+http://akamaizedx.com:80/lulalele/1324zcbv/9620?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO + Plus SD Dub
+http://201.87.232.214:25461/marcondes/101010/14247?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HBO SIGNATURE FHD⁺
+http://akamaizedx.com:80/lulalele/1324zcbv/9622?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Tom Cruise Movies
+http://akamaizedx.com:80/lulalele/1324zcbv/10045910?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Movies Action (SD)
+http://iptv1.privateiptv.club:80/freeview/freeview/57?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Sony Movie Channel
+http://92.249.148.48:8001/play/a00d?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax Full HD
+http://akamaizedx.com:80/lulalele/1324zcbv/5929?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax SD.
+http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9168?checkedby:iptvcat.com
+
+
+=============================================================================================================================
+
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD¹
+http://akamaizedx.com:80/lulalele/1324zcbv/5902?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://akamaizedx.com:80/lulalele/1324zcbv/17390?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",BOOMERANG SD¹
+http://akamaizedx.com:80/lulalele/1324zcbv/10039450?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD¹
+http://akamaizedx.com:80/lulalele/1324zcbv/10039474?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD NETWORK HD¹
+http://akamaizedx.com:80/lulalele/1324zcbv/5922?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel
+http://201.87.232.214:25461/marcondes/101010/14098?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
+http://201.87.232.214:25461/marcondes/101010/14099?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY 2 SD²
-http://4tv.site:80/live/douglas1155/4187731155/35262.m3u8?checkedby:iptvcat.com
+http://akamaizedx.com:80/lulalele/1324zcbv/10040786?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD¹
-http://4tv.site:80/live/douglas1155/4187731155/18248.m3u8?checkedby:iptvcat.com
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?checkedby:iptvcat.com
 
-
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
+=========================================================================================================================DOOOOOOOOOOOOOOOOOOOOOOOOO
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
 http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
 
-
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Undefined",Masti 
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:iptvcat.com
-
-
-
-
-
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
+
+
 
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="Undefined",NAT GEOGRAPHIC
 http://akamaizedx.com:80/lulalele/1324zcbv/10045800?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
-http://akamaizedx.com:80/lulalele/1324zcbv/10045802?checkedby:iptvcat.com
+http://akamaizedx.com:80/lulalele/1324zcbv/6541?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",World Punjabi TV
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" group-title="Undefined",Hungama Digital Network
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Undefined",Nazrana TV
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",BN MUSIC
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music;Undefined",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" group-title="Music",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8?checkedby:iptvcat.com
@@ -488,6 +390,14 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?che
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
+http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Drama 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/star-jalsha-black.png" group-title="Undefined",STAR Jalsa
 https://d3t34m8y8rh0vb.cloudfront.net/preview/starjalsha/1800.m3u8?
@@ -511,19 +421,23 @@ http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Undefined",STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR WORLD (IN):-
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
 http://92.249.148.48:8001/play/a00e?checkedby:iptvcat.com
 
-
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
 http://hdonline.ml:80/rana/rana/7028?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
@@ -555,17 +469,6 @@ http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/paramount-channel.png",Paramount Channel
 http://50.7.222.90:8081/param_chanel/index.m3u8?wmsAuthSign=cab97bd4ba1bc1cda2c2a88706df09db-1596742822-2i141i381i281
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network
-http://50.7.120.165:8081/cartoon/index.m3u8?wmsAuthSign=9c34c58f80fb56147b7060db8f96e7c3-1596742635-2i141i381i281
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
-https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
-https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network HD.
-http://201.87.232.214:25461/marcondes/101010/13908?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png",Play Entertainment
 https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/chunklist_w1225187589_b748000_slEng.m3u8
