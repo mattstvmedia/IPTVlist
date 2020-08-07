@@ -166,10 +166,7 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvc
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 1
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
-https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Star
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd?checkedby:iptvcat.com
@@ -309,18 +306,7 @@ http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8472?checkedby:iptvcat.com
 http://top-quality.net:80/alibaba/alibaba/86224?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
 http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
-http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE BOLLYWOOD
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="in" tvg-logo="http://only-tv.org/images/zee.png" group-title="Кино",Zee TV
-http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV
-http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
@@ -440,11 +426,13 @@ http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
 http://reds.ppdn.tn/iptv/ch1701?code=840016827610293&key=45492
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
 http://reds.ppdn.tn/iptv/ch1790?code=840016827610293&key=40819
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 
@@ -457,7 +445,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR WORLD (IN):-
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="Undefined",STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="English",Pardesi TV
@@ -521,6 +509,27 @@ https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 https://live.arydigital.tv/33caf346-43b5-469c-8b5c-7fdf857dae43
 
 
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
+http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE BOLLYWOOD
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="in" tvg-logo="http://only-tv.org/images/zee.png" group-title="Кино",Zee TV
+http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV
+http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 1
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
+https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
 
