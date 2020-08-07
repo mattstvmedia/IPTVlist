@@ -50,6 +50,9 @@ https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?che
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Undefined",Film World
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Undefined",Film World
+http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Undefined",Filmax SD
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8?checkedby:iptvcat.com
 
@@ -458,6 +461,9 @@ https://streams.simpaisa.com:8443/pitvlive3/ptvworld.smil/chunklist_w1169719497_
 https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b748000_slEng.m3u8
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDq/chunklist.m3u8
+
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV ENG
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-country="AL" tvg-url="" group-title="Albanian",Peace TV
