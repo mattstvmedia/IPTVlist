@@ -279,6 +279,8 @@ http://akamaizedx.com:80/lulalele/1324zcbv/5929?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cinemax SD.
 http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9168?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8?checkedby:iptvcat.com
 
 =============================================================================================================================
 
@@ -319,6 +321,9 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10040786?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD¹
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
+http://akamaizedx.com:80/lulalele/1324zcbv/4957?checkedby:iptvcat.com
+
 =========================================================================================================================DOOOOOOOOOOOOOOOOOOOOOOOOO
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
@@ -352,8 +357,6 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?check
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",BN MUSIC
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music;Undefined",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
@@ -367,10 +370,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8?checkedb
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="Music",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music SD
-http://reds.ppdn.tn/iptv/ch1732?code=840016827610293&key=41248
-
-#EXTINF:0 tvg-country="IN;PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music;Undefined",B4U Music SSD
+#EXTINF:0 tvg-country="IN;PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music;Undefined",B4U Music SD
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Plus
@@ -382,12 +382,13 @@ http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies Sd
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
 
-#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak Sd
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak IN
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",B4U Kadak
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",B4U Kadak PK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
+=================================================================================================================================
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
