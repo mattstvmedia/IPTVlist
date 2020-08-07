@@ -537,13 +537,21 @@ http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee TV 2
-https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Zee One HD+
-http://top-quality.net:80/alibaba/alibaba/86016?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/zee.png" group-title="Undefined",Zee TV44
-http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) InSync (S)
+http://hdonline.ml:80/rana/rana/7178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) SAB TV (S)
+http://hdonline.ml:80/rana/rana/7058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) Vaani TV (S)
+http://hdonline.ml:80/rana/rana/7153?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian (Hindi) Zing (S)
+http://hdonline.ml:80/rana/rana/7169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian Halla Bol! (Hindi) (S)
+http://hdonline.ml:80/rana/rana/7167?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Asian Sony Marathi (S)
+http://hdonline.ml:80/rana/rana/7062?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(Urdu) ARY News (S)
+http://hdonline.ml:80/rana/rana/7042?checkedby:iptvcat.com
