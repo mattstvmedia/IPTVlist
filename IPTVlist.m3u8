@@ -516,7 +516,8 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
-http://hdonline.ml:80/rana/rana/7184?checkedby:iptvcat.com
+http://92.249.148.48:8001/play/a00e?checkedby:iptvcat.com
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
 http://hdonline.ml:80/rana/rana/7028?checkedby:iptvcat.com
@@ -609,6 +610,11 @@ http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Asian TV
+#EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Undefined",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://livestream.fun/uploads/posts/2016-04/1460633542_djing-anime.jpg" group-title="Undefined",DJing Animation
+https://www.djing.com/tv/animation.m3u8?checkedby:iptvcat.com
