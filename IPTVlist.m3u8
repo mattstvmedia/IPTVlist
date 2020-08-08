@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Movie",Movie One
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/2013-01-01_1835.jpg" group-title="Movie",Movie One
 https://cdn5.mjunoon.tv:8087/web/movie-one-176/live/176M/chunks.m3u8?nimblesessionid=298884366&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNTowNDo1MCBQTSZoYXNoX3ZhbHVlPXhXQUlSRU1BbEIxTjRRRmI1S3Q2M0E9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://jalwa.tv/wp-content/uploads/2019/09/logo2.png" group-title="Music",Jalwa Tv
@@ -72,7 +72,7 @@ http://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com
 https://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Undefined",Geo Kahani
-http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8?checkedby:iptvcat.com
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="News",Geo News SD
 https://playlive.goonj.pk/geonewsweb_480p/index.m3u8?checkedby:iptvcat.com
@@ -118,7 +118,7 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8?check
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dil Se
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg" group-title="Undefined",Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Undefined",IN | Shemaroo Bollywood Classic,Shemaroo Bollywood Classic
@@ -126,6 +126,9 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/t1O83T7.jpg" group-title="Undefined",IN | Shemaroo Punjabi TV,Shemaroo Punjabi TV
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 ,Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8?checkedby:iptvcat.com
@@ -164,7 +167,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045771?checkedby:iptvcat.com
 http://akamaizedx.com:80/lulalele/1324zcbv/10045438?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" tvg-country="BR" tvg-url="" group-title="Undefined",NICKTOONS
-http://akamaizedx.com:80/lulalele/1324zcbv/10045436?checkedby:iptvcat.com
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/267.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" tvg-country="BR" tvg-url="" group-title="Undefined",NICK JR. (EAST)
 http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
@@ -411,6 +414,9 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10040786?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD¹
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL Hindi
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
 http://akamaizedx.com:80/lulalele/1324zcbv/4957?checkedby:iptvcat.com
@@ -440,6 +446,8 @@ http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
 
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
+===================================================================================
+
 
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
@@ -478,7 +486,7 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checke
 http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
-http://hdonline.ml:80/rana/rana/2395?checkedby:iptvcat.com
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies Sd
 http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
@@ -490,6 +498,22 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?che
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 =================================================================================================================================
+
+#EXTINF:-1 ,Star Movies HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+
+#EXTINF:-1 ,Star World HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+
+#EXTINF:-1 ,Maha Movie
+http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
+
+#EXTINF:-1 ,Mirror Now sd
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 ,Mirror Now Hq
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
 https://playlive.goonj.pk/ltnweb_480p/index.m3u8
@@ -506,6 +530,9 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 #EXTINF:0 tvg-country="UN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/star-jalsha-black.png" group-title="Undefined",STAR Jalsa
 https://d3t34m8y8rh0vb.cloudfront.net/preview/starjalsha/1800.m3u8?
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/star-jalsha-black.png" group-title="Undefined",STAR Jalsa Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvcat.com
 
@@ -516,6 +543,8 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="Undefined",STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="English",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 
@@ -525,8 +554,7 @@ http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Undefined",STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",STAR WORLD (IN):-
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com
