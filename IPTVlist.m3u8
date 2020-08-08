@@ -217,7 +217,7 @@ https://cdn.alarab.com/480/123230_480p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",batman
 https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SUPER RTL
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Bugs_Bunny.svg" group-title="Undefined",SUPER RTL(Bugs Bunny)
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
 ====================================================================================================================================================
@@ -293,16 +293,16 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 
 =============================================================================================================================
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+#EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET SD
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD¹
+#EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET HD¹
 http://akamaizedx.com:80/lulalele/1324zcbv/5902?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
+#EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",Animal Planet
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet FHD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",Animal Planet FHD
 http://akamaizedx.com:80/lulalele/1324zcbv/17390?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
