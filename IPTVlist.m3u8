@@ -154,11 +154,36 @@ http://201.87.232.214:25461/marcondes/101010/13908?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon SQ
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Undefined",Nickelodeon Hq
 http://akamaizedx.com:80/lulalele/1324zcbv/10045771?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Undefined",Nickelodeon East
+http://akamaizedx.com:80/lulalele/1324zcbv/10045438?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" tvg-country="BR" tvg-url="" group-title="Undefined",NICKTOONS
+http://akamaizedx.com:80/lulalele/1324zcbv/10045436?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" tvg-country="BR" tvg-url="" group-title="Undefined",NICK JR. (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family
+http://akamaizedx.com:80/lulalele/1324zcbv/10047724?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY XD
+http://akamaizedx.com:80/lulalele/1324zcbv/1762?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://akamaizedx.com:80/lulalele/1324zcbv/4510?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://akamaizedx.com:80/lulalele/1324zcbv/1763?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://akamaizedx.com:80/lulalele/1324zcbv/1794?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PINK SUPER KIDS
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
@@ -233,6 +258,39 @@ https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.c
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
 ====================================================================================================================================================
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://akamaizedx.com:80/lulalele/1324zcbv/10045451?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV CLASSIC
+http://akamaizedx.com:80/lulalele/1324zcbv/10045452?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV (ALTERNATE)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045266?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTVU
+http://akamaizedx.com:80/lulalele/1324zcbv/10045449?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIE NETWORK
+http://akamaizedx.com:80/lulalele/1324zcbv/10045461?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",truTV
+http://akamaizedx.com:80/lulalele/1324zcbv/10047722?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema
+http://akamaizedx.com:80/lulalele/1324zcbv/10047726?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2
+http://akamaizedx.com:80/lulalele/1324zcbv/10047731?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime
+http://akamaizedx.com:80/lulalele/1324zcbv/10047732?checkedby:iptvcat.com
+
+
 
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8?checkedby:iptvcat.com
