@@ -127,7 +127,7 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ISAAC TV (Urdu TV Toronto)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Cartoon Network Rus
+#EXTINF:0 tvg-country="AZ" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Rus
 http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network
@@ -139,10 +139,10 @@ https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w5730415
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network HD.
+#EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network HD.
 http://201.87.232.214:25461/marcondes/101010/13908?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArRBj.png" group-title="Undefined",CARTOON NETWORK [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
@@ -151,7 +151,10 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
 http://akamaizedx.com:80/lulalele/1324zcbv/10045771?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network Full HD
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined"PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
+
+#EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Full HD
 http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
@@ -202,8 +205,8 @@ http://4tv.site:80/live/douglas1155/4187731155/35753.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H THUNDER CATS
 http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TRANSFORMERS
-http://4tv.site:80/live/douglas1155/4187731155/35787.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="International",Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TOM & JERRY CLASSICO
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?checkedby:iptvcat.com
@@ -309,6 +312,15 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10039474?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Investigation Discovery
 http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY HD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/880
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY HD IDXTRA
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/878
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/877
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD NETWORK HD¹
 http://akamaizedx.com:80/lulalele/1324zcbv/5922?checkedby:iptvcat.com
 
@@ -324,6 +336,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10040786?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD¹
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?checkedby:iptvcat.com
 
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
 http://akamaizedx.com:80/lulalele/1324zcbv/4957?checkedby:iptvcat.com
 
@@ -335,14 +348,24 @@ http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
 
-
-
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="Undefined",NAT GEOGRAPHIC
 http://akamaizedx.com:80/lulalele/1324zcbv/10045800?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
 http://akamaizedx.com:80/lulalele/1324zcbv/6541?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
+
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
+
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
@@ -392,6 +415,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?che
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 =================================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
+https://playlive.goonj.pk/ltnweb_480p/index.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
@@ -491,6 +517,9 @@ https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Undefined",ARY Zindagi
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-country="UN" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="Undefined",ARY Musik
+https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
 http://hdonline.ml:80/y1/y1/7037
 
@@ -517,6 +546,9 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?checkedby:iptvcat.
 
 #EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zee TV RU
 http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-country="IN" tvg-url="" group-title="",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
