@@ -142,7 +142,7 @@ http://50.7.120.165:8081/cartoon/index.m3u8?wmsAuthSign=9c34c58f80fb56147b7060db
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu 2
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network HQ
 https://cdn7.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=5684369&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNDo1NzoxMiBQTSZoYXNoX3ZhbHVlPUJmMHNOaTN3Z3N3Tll1aHdWT2NsZkE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
@@ -160,7 +160,7 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon
 http://akamaizedx.com:80/lulalele/1324zcbv/10045771?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined"PINK SUPER KIDS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PINK SUPER KIDS
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
 
 #EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Full HD
