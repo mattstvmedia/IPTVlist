@@ -217,6 +217,9 @@ https://cdn.alarab.com/480/123230_480p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",batman
 https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SUPER RTL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
+
 ====================================================================================================================================================
 
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
@@ -290,6 +293,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 
 =============================================================================================================================
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD¹
 http://akamaizedx.com:80/lulalele/1324zcbv/5902?checkedby:iptvcat.com
