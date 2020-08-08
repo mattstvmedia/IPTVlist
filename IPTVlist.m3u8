@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
+https://cdn5.mjunoon.tv:8087/web/movie-one-176/live/176M/chunks.m3u8?nimblesessionid=298884366&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNTowNDo1MCBQTSZoYXNoX3ZhbHVlPXhXQUlSRU1BbEIxTjRRRmI1S3Q2M0E9PSZ2YWxpZG1pbnV0ZXM9MQ==
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://jalwa.tv/wp-content/uploads/2019/09/logo2.png" group-title="Music",Jalwa Tv
 https://cdn7.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=5684477&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNTowMTowNCBQTSZoYXNoX3ZhbHVlPXh6ZWdtWG9OVXRoUDVTblVrUFI3cWc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
@@ -165,6 +168,9 @@ http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVERSAL KIDS
+http://akamaizedx.com:80/lulalele/1324zcbv/10045379?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Disney RU
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.com
