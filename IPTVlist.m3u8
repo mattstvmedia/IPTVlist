@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PK" tvg-logo="https://jalwa.tv/wp-content/uploads/2019/09/logo2.png" group-title="Music",Jalwa Tv
+https://cdn7.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=5684477&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNTowMTowNCBQTSZoYXNoX3ZhbHVlPXh6ZWdtWG9OVXRoUDVTblVrUFI3cWc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News SD
 https://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
 
