@@ -140,7 +140,7 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network USTVGO.tv
-https://peer1.ustv24h.live/CN/myStream/chunks.m3u8?nimblesessionid=30756167&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTA6NTQ6NDggQU0maGFzaF92YWx1ZT13SUpVL1YyWUFmY0tkYXgzcFlOMG1nPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
@@ -179,10 +179,11 @@ https://peer7.ustv24h.live/StarZ/myStream/chunks.m3u8?nimblesessionid=26891339&w
 http://hls.123tv.live/ch/kEXAhWFFkfTR-PuNkl761w/1596993382/disneyxd.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/Disney_Junior_(Latin_American_TV_channel)#/media/File:CanalDisneyJuniorLA.png" group-title="Undefined",DISNEY JUNIOR USTV
-https://peer5.ustv24h.live/DisneyJr/myStream/chunks.m3u8?nimblesessionid=25601783&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MDQ6MzkgQU0maGFzaF92YWx1ZT1GaW42S2YyTzBJNVJoVWt4T3pjRW5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://hls.123tv.live/ch/mEIXppyAk5hrnb9qExyftQ/1596993798/disneyjr.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Undefined",DISNEY CHANNEL
-https://peer3.ustv24h.live/Disney/myStream/chunks.m3u8?nimblesessionid=31553426&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTM6MjQgQU0maGFzaF92YWx1ZT11RFUzSElDckhod1ZSb1NLVTdMTkFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Undefined",DISNEY CHANNEL US
+http://hls.123tv.live/ch/Xpc7AQZ_F4M46K7HEyp6_A/1596994361/disney.m3u8
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",Disney XD Full HD
 http://201.87.232.214:25461/marcondes/101010/16215?checkedby:iptvcat.com
@@ -269,7 +270,7 @@ https://peer1.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=30760614
 http://akamaizedx.com:80/lulalele/1324zcbv/10045452?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
-http://akamaizedx.com:80/lulalele/1324zcbv/4957?checkedby:iptvcat.com
+http://hls.123tv.live/ch/c3SyCEkSAS69a_qjl8xPHA/1596993583/mtv.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
 http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
@@ -562,8 +563,8 @@ http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1790.png",Sony Ent. Max2 Asia
 http://92.249.148.48:8001/play/a00e?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
-http://hdonline.ml:80/rana/rana/7028?checkedby:iptvcat.com
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
+http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
