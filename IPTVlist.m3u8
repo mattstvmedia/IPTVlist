@@ -569,6 +569,9 @@ http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia SD
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",,IN: SONY YAY 
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8 
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
