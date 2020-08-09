@@ -221,8 +221,8 @@ http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior 2
 http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PINK SUPER KIDS
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DBZ Super
+http://lista.powerchannels.club:80/rebeca/123456/73932?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",Dragon Ball Z Kai (Opt-2)
 http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8?checkedby:iptvcat.com
@@ -233,8 +233,9 @@ http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H Dungon And Dragon
 http://lista.powerchannels.club:80/rebeca/123456/73931?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H THUNDER CATS
-http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H Scooby Doo
+http://lista.powerchannels.club:80/rebeca/123456/17021?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="International",Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
