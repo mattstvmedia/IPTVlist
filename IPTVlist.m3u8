@@ -172,7 +172,7 @@ https://peer1.ustv24h.live/Nicktoons/myStream/chunks.m3u8?nimblesessionid=307564
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" tvg-country="BR" tvg-url="" group-title="Undefined",NICK JR. (EAST)
 http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family
+#EXTINF:0 tvg-country="US" tvg-logo="https://pmcvariety.files.wordpress.com/2017/11/starz-logo.jpg?w=600" group-title="Undefined",Starz Kids & Family
 https://peer7.ustv24h.live/StarZ/myStream/chunks.m3u8?nimblesessionid=26891339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MDA6MjMgQU0maGFzaF92YWx1ZT1SV3VDZ1FOdTY5Vkw0ZnBHTWVVNmJBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",DISNEY XD USTV
@@ -181,14 +181,11 @@ https://peer5.ustv24h.live/DisneyXD/myStream/chunks.m3u8?nimblesessionid=2560149
 #EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/Disney_Junior_(Latin_American_TV_channel)#/media/File:CanalDisneyJuniorLA.png" group-title="Undefined",DISNEY JUNIOR USTV
 https://peer5.ustv24h.live/DisneyJr/myStream/chunks.m3u8?nimblesessionid=25601783&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MDQ6MzkgQU0maGFzaF92YWx1ZT1GaW42S2YyTzBJNVJoVWt4T3pjRW5nPT0mdmFsaWRtaW51dGVzPTI0MA==
 
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Undefined",DISNEY CHANNEL
+https://peer3.ustv24h.live/Disney/myStream/chunks.m3u8?nimblesessionid=31553426&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTM6MjQgQU0maGFzaF92YWx1ZT11RFUzSElDckhod1ZSb1NLVTdMTkFnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-http://akamaizedx.com:80/lulalele/1324zcbv/1763?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
-http://akamaizedx.com:80/lulalele/1324zcbv/1794?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",BOOMERANG SD¹
+https://peer1.ustv24h.live/Boomerang/myStream/chunks.m3u8?nimblesessionid=30758606&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTU6NDEgQU0maGFzaF92YWx1ZT1la1BCTU5hTFNwcUtaTE9JUkZFbEpnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PINK SUPER KIDS
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
@@ -199,16 +196,7 @@ http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVERSAL KIDS
-http://akamaizedx.com:80/lulalele/1324zcbv/10045379?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Disney RU
-http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Disney PY
-http://stream3.kuvalda.tv/hls/disney.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney XD Full HD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",Disney XD Full HD
 http://201.87.232.214:25461/marcondes/101010/16215?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel
@@ -217,7 +205,7 @@ http://176.10.117.3:5000/play/a038?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids;Undefined",Disney Junior Asia,Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",VERONICA/DISNEYXD FHD
+#EXTINF:0 tvg-country="NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",VERONICA/DISNEYXD FHD
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8316?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
@@ -232,13 +220,13 @@ http://201.87.232.214:25461/marcondes/101010/16214?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Junior SD.
 http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior 2
 http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Dragon Ball Z Kai (Opt-2)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",Dragon Ball Z Kai (Opt-2)
 http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DRAGON BALL KAI TV
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",DRAGON BALL KAI TV
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H SCOOBY-DOO & SCOOBY-LOO
@@ -263,10 +251,18 @@ https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.c
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
 ====================================================================================================================================================
+#EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/WWE_Network#/media/File:WWE_Network_logo.svg" group-title="Undefined",WWE NETWOK
+https://peer7.ustv24h.live/WWE/myStream/chunks.m3u8?nimblesessionid=26893797&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6Mjk6MzAgQU0maGFzaF92YWx1ZT1jem1rditZS2lMZEpQRVJRdXNNVk9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="Undefined",truTV
+https://peer7.ustv24h.live/TruTV/myStream/chunks.m3u8?nimblesessionid=26893564&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MjY6NTUgQU0maGFzaF92YWx1ZT01a1d3Mmo3aFlKdWxjeWVoVDR6MUVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/LMN_logo_2019.svg" group-title="Undefined",LIFETIME MOVIE NETWORK
+https://peer6.ustv24h.live/LifetimeM/myStream/chunks.m3u8?nimblesessionid=25629339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzE6NTkgQU0maGFzaF92YWx1ZT1EbUFqZk5vVnFkK2hWTG9FSHVEMlZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
-http://akamaizedx.com:80/lulalele/1324zcbv/10045451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Undefined",CineMAX
+https://peer1.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=30760614&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzI6NDggQU0maGFzaF92YWx1ZT14WmZVVi91aGhEdlo3NVNuVEl1cEJBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV CLASSIC
 http://akamaizedx.com:80/lulalele/1324zcbv/10045452?checkedby:iptvcat.com
@@ -280,11 +276,8 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045266?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTVU
 http://akamaizedx.com:80/lulalele/1324zcbv/10045449?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIE NETWORK
-http://akamaizedx.com:80/lulalele/1324zcbv/10045461?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",truTV
-http://akamaizedx.com:80/lulalele/1324zcbv/10047722?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema
 http://akamaizedx.com:80/lulalele/1324zcbv/10047726?checkedby:iptvcat.com
@@ -383,8 +376,6 @@ http://akamaizedx.com:80/lulalele/1324zcbv/17390?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",BOOMERANG SD¹
-http://akamaizedx.com:80/lulalele/1324zcbv/10039450?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD¹
 http://akamaizedx.com:80/lulalele/1324zcbv/10039474?checkedby:iptvcat.com
