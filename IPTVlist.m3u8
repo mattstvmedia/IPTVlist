@@ -161,7 +161,9 @@ http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Undefined",Nickelodeon HQ
-https://peer7.ustv24h.live/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=26890962&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTA6NTc6MjUgQU0maGFzaF92YWx1ZT1Oa2I3QXBBU2tlSGhEMlAyRkJrUElBPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://185.236.229.2:8000/play/a01h/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Undefined",Nickelodeon East
 http://akamaizedx.com:80/lulalele/1324zcbv/10045438?checkedby:iptvcat.com
