@@ -179,7 +179,7 @@ https://peer7.ustv24h.live/StarZ/myStream/chunks.m3u8?nimblesessionid=26891339&w
 http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11548?checkedby:iptvcat.com  
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/Disney_Junior_(Latin_American_TV_channel)#/media/File:CanalDisneyJuniorLA.png" group-title="Undefined",DISNEY JUNIOR USTV
-http://hls.123tv.live/ch/mEIXppyAk5hrnb9qExyftQ/1596993798/disneyjr.m3u8
+http://xtream.mixbox.tv:25461/erdem123/erdem123/889?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Undefined",DISNEY CHANNEL US
 http://185.236.229.2:8000/play/a01n/index.m3u8
@@ -188,7 +188,8 @@ http://185.236.229.2:8000/play/a01n/index.m3u8
 http://201.87.232.214:25461/marcondes/101010/16215?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney Channel
-http://176.10.117.3:5000/play/a038?checkedby:iptvcat.com
+http://185.236.229.2:8000/play/a01n/index.m3u8
+
 
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Kids;Undefined",Disney Junior Asia,Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
@@ -229,8 +230,8 @@ http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",DRAGON BALL KAI TV
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H SCOOBY-DOO & SCOOBY-LOO
-http://4tv.site:80/live/douglas1155/4187731155/35753.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H Dungon And Dragon
+http://lista.powerchannels.club:80/rebeca/123456/73931?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H THUNDER CATS
 http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
@@ -238,8 +239,8 @@ http://4tv.site:80/live/douglas1155/4187731155/19968.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="International",Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H TOM & JERRY CLASSICO
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H BEN10
+http://lista.powerchannels.club:80/rebeca/123456/73924?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Superman
 https://cdn.alarab.com/480/123230_480p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.com
