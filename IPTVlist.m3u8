@@ -184,18 +184,6 @@ https://peer5.ustv24h.live/DisneyJr/myStream/chunks.m3u8?nimblesessionid=2560178
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Undefined",DISNEY CHANNEL
 https://peer3.ustv24h.live/Disney/myStream/chunks.m3u8?nimblesessionid=31553426&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTM6MjQgQU0maGFzaF92YWx1ZT11RFUzSElDckhod1ZSb1NLVTdMTkFnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",BOOMERANG SD¹
-https://peer1.ustv24h.live/Boomerang/myStream/chunks.m3u8?nimblesessionid=30758606&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTU6NDEgQU0maGFzaF92YWx1ZT1la1BCTU5hTFNwcUtaTE9JUkZFbEpnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PINK SUPER KIDS
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
-
-#EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Full HD
-http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",Disney XD Full HD
 http://201.87.232.214:25461/marcondes/101010/16215?checkedby:iptvcat.com
 
@@ -207,6 +195,17 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",VERONICA/DISNEYXD FHD
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8316?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Undefined",BOOMERANG SD¹
+https://peer1.ustv24h.live/Boomerang/myStream/chunks.m3u8?nimblesessionid=30758606&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTU6NDEgQU0maGFzaF92YWx1ZT1la1BCTU5hTFNwcUtaTE9JUkZFbEpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Full HD
+http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
+
+
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
 http://94.46.195.170:9000/disneychannel/live.m3u8?checkedby:iptvcat.com
@@ -222,6 +221,9 @@ http://201.87.232.214:25461/marcondes/101010/13920?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Junior 2
 http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",Dragon Ball Z Kai (Opt-2)
 http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8?checkedby:iptvcat.com
@@ -251,7 +253,7 @@ https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.c
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
 ====================================================================================================================================================
-#EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/WWE_Network#/media/File:WWE_Network_logo.svg" group-title="Undefined",WWE NETWOK
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="Undefined",WWE NETWOK
 https://peer7.ustv24h.live/WWE/myStream/chunks.m3u8?nimblesessionid=26893797&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6Mjk6MzAgQU0maGFzaF92YWx1ZT1jem1rditZS2lMZEpQRVJRdXNNVk9nPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="Undefined",truTV
@@ -260,12 +262,14 @@ https://peer7.ustv24h.live/TruTV/myStream/chunks.m3u8?nimblesessionid=26893564&w
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/LMN_logo_2019.svg" group-title="Undefined",LIFETIME MOVIE NETWORK
 https://peer6.ustv24h.live/LifetimeM/myStream/chunks.m3u8?nimblesessionid=25629339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzE6NTkgQU0maGFzaF92YWx1ZT1EbUFqZk5vVnFkK2hWTG9FSHVEMlZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Undefined",CineMAX
 https://peer1.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=30760614&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzI6NDggQU0maGFzaF92YWx1ZT14WmZVVi91aGhEdlo3NVNuVEl1cEJBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV CLASSIC
 http://akamaizedx.com:80/lulalele/1324zcbv/10045452?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
+http://akamaizedx.com:80/lulalele/1324zcbv/4957?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
 http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
@@ -279,15 +283,14 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045449?checkedby:iptvcat.com
 
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema
-http://akamaizedx.com:80/lulalele/1324zcbv/10047726?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/225px-TCM_logo.svg.png" group-title="Undefined",Turner Classic Movies (TCM)
+https://peer3.ustv24h.live/TCM/myStream/chunks.m3u8?nimblesessionid=31558096&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6NDQ6MzYgQU0maGFzaF92YWx1ZT1Da2YzSkIzRVExRmVKVngrZ2xlSlF3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2
 http://akamaizedx.com:80/lulalele/1324zcbv/10047731?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime
 http://akamaizedx.com:80/lulalele/1324zcbv/10047732?checkedby:iptvcat.com
-
 
 
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
@@ -359,7 +362,7 @@ http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9168?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8?checkedby:iptvcat.com
 
-=============================================================================================================================
+===================================================================================================================================================
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET SD
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
@@ -373,9 +376,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3
 #EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",Animal Planet FHD
 http://akamaizedx.com:80/lulalele/1324zcbv/17390?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="Undefined",NAT GEOGRAPHIC
+http://akamaizedx.com:80/lulalele/1324zcbv/10045800?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
+http://akamaizedx.com:80/lulalele/1324zcbv/6541?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
-
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD¹
 http://akamaizedx.com:80/lulalele/1324zcbv/10039474?checkedby:iptvcat.com
@@ -410,9 +427,33 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?checkedby:iptv
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HISTORY CHANNEL Hindi
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
-http://akamaizedx.com:80/lulalele/1324zcbv/4957?checkedby:iptvcat.com
+
+#EXTINF:-1 ,Star Movies HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+
+#EXTINF:-1 ,Star World HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+
+#EXTINF:-1 ,Maha Movie
+http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
+
+#EXTINF:-1 ,Mirror Now sd
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 ,Mirror Now Hq
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Undefined",Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://livestream.fun/uploads/posts/2016-04/1460633542_djing-anime.jpg" group-title="Undefined",DJing Animation
+https://www.djing.com/tv/animation.m3u8?checkedby:iptvcat.com
+
+
 
 =========================================================================================================================DOOOOOOOOOOOOOOOOOOOOOOOOO
 
@@ -421,27 +462,6 @@ http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
-
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://img.favpng.com/10/7/10/national-geographic-abu-dhabi-television-channel-nat-geo-wild-png-favpng-cxd1ejAngVCUDVFLEB17VXpFU.jpg" group-title="Undefined",NAT GEOGRAPHIC
-http://akamaizedx.com:80/lulalele/1324zcbv/10045800?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
-http://akamaizedx.com:80/lulalele/1324zcbv/6541?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
-
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
-===================================================================================
-
-
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
@@ -491,22 +511,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?che
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
 =================================================================================================================================
-
-#EXTINF:-1 ,Star Movies HD Middle East
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-
-
-#EXTINF:-1 ,Star World HD Middle East
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-
-#EXTINF:-1 ,Maha Movie
-http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
-
-#EXTINF:-1 ,Mirror Now sd
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-
-#EXTINF:-1 ,Mirror Now Hq
-https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
 https://playlive.goonj.pk/ltnweb_480p/index.m3u8
@@ -652,8 +656,4 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Undefined",Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://livestream.fun/uploads/posts/2016-04/1460633542_djing-anime.jpg" group-title="Undefined",DJing Animation
-https://www.djing.com/tv/animation.m3u8?checkedby:iptvcat.com
