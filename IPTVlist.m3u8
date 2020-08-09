@@ -146,7 +146,7 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network HQ
-https://cdn7.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=5684369&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNDo1NzoxMiBQTSZoYXNoX3ZhbHVlPUJmMHNOaTN3Z3N3Tll1aHdWT2NsZkE9PSZ2YWxpZG1pbnV0ZXM9MQ==
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
@@ -198,15 +198,13 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/8316?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Undefined",BOOMERANG SD¹
-https://peer1.ustv24h.live/Boomerang/myStream/chunks.m3u8?nimblesessionid=30758606&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MTU6NDEgQU0maGFzaF92YWx1ZT1la1BCTU5hTFNwcUtaTE9JUkZFbEpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://193.33.39.108:8107/30710
 
 #EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Full HD
 http://201.87.232.214:25461/marcondes/101010/16529?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U Old
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:iptvcat.com
-
-
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
 http://94.46.195.170:9000/disneychannel/live.m3u8?checkedby:iptvcat.com
@@ -255,7 +253,7 @@ http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
 ====================================================================================================================================================
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="Undefined",WWE NETWOK
-https://peer7.ustv24h.live/WWE/myStream/chunks.m3u8?nimblesessionid=26893797&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6Mjk6MzAgQU0maGFzaF92YWx1ZT1jem1rditZS2lMZEpQRVJRdXNNVk9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://cdnak10.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="Undefined",truTV
 https://peer7.ustv24h.live/TruTV/myStream/chunks.m3u8?nimblesessionid=26893564&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MjY6NTUgQU0maGFzaF92YWx1ZT01a1d3Mmo3aFlKdWxjeWVoVDR6MUVnPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -264,19 +262,19 @@ https://peer7.ustv24h.live/TruTV/myStream/chunks.m3u8?nimblesessionid=26893564&w
 https://peer6.ustv24h.live/LifetimeM/myStream/chunks.m3u8?nimblesessionid=25629339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzE6NTkgQU0maGFzaF92YWx1ZT1EbUFqZk5vVnFkK2hWTG9FSHVEMlZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Undefined",CineMAX
-https://peer1.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=30760614&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzI6NDggQU0maGFzaF92YWx1ZT14WmZVVi91aGhEdlo3NVNuVEl1cEJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://193.33.39.108:8107/30709
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV CLASSIC
-http://akamaizedx.com:80/lulalele/1324zcbv/10045452?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 
+http://185.236.229.2:8000/play/a05m/index.m3u8
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",MTV
-http://hls.123tv.live/ch/c3SyCEkSAS69a_qjl8xPHA/1596993583/mtv.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",The Q TV
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
-http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Universal Tv
+http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV (ALTERNATE)
-http://akamaizedx.com:80/lulalele/1324zcbv/10045266?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WB TV(ALTERNATE)
+http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTVU
 http://akamaizedx.com:80/lulalele/1324zcbv/10045449?checkedby:iptvcat.com
