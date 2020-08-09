@@ -176,7 +176,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
 https://peer7.ustv24h.live/StarZ/myStream/chunks.m3u8?nimblesessionid=26891339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MDA6MjMgQU0maGFzaF92YWx1ZT1SV3VDZ1FOdTY5Vkw0ZnBHTWVVNmJBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",DISNEY XD US TV
-http://hls.123tv.live/ch/kEXAhWFFkfTR-PuNkl761w/1596993382/disneyxd.m3u8
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11548?checkedby:iptvcat.com  
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/Disney_Junior_(Latin_American_TV_channel)#/media/File:CanalDisneyJuniorLA.png" group-title="Undefined",DISNEY JUNIOR USTV
 http://hls.123tv.live/ch/mEIXppyAk5hrnb9qExyftQ/1596993798/disneyjr.m3u8
@@ -252,13 +252,13 @@ http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
 ====================================================================================================================================================
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="Undefined",WWE NETWOK
-http://cdnak10.cast4u.info/channels/3/10803.m3u8
+http://x.xtv.life:80/sever2020/2020sever/10039687?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="Undefined",truTV
-https://peer7.ustv24h.live/TruTV/myStream/chunks.m3u8?nimblesessionid=26893564&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MjY6NTUgQU0maGFzaF92YWx1ZT01a1d3Mmo3aFlKdWxjeWVoVDR6MUVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://x.xtv.life:80/sever2020/2020sever/10045396?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/LMN_logo_2019.svg" group-title="Undefined",LIFETIME MOVIE NETWORK
-https://peer6.ustv24h.live/LifetimeM/myStream/chunks.m3u8?nimblesessionid=25629339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MzE6NTkgQU0maGFzaF92YWx1ZT1EbUFqZk5vVnFkK2hWTG9FSHVEMlZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://x.xtv.life:80/sever2020/2020sever/10045461?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Undefined",CineMAX
 http://193.33.39.108:8107/30709
@@ -276,8 +276,7 @@ http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTVU
-http://akamaizedx.com:80/lulalele/1324zcbv/10045449?checkedby:iptvcat.com
-
+http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8?checkedby:iptvcat.com
 
 
 
@@ -410,7 +409,7 @@ http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/877
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD NETWORK HD¹
 http://akamaizedx.com:80/lulalele/1324zcbv/5922?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel PY
+#EXTINF:0 tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Undefined",History Channel 
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
