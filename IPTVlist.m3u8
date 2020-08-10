@@ -673,4 +673,27 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,UK: ZEE LIVING
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,INT: N TV MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+
+#EXTINF:-1,IN: SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
+#EXTINF:-1,USA: WWE
+http://cdnak10.cast4u.info/channels/3/10803.m3u8 
+
+#EXTINF:-1,PK: GTV HD
+http://43.251.86.2:8080/hls/channel_1.m3u8
+
+#EXTINF:-1,ASIA: NAT GEO
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+
+
+
+
+
+
 
