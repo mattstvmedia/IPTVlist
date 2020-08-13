@@ -535,6 +535,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors HD 
 http://66.northerniptv.ca:8000/jacob123/jacob123/6902
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorsrishtey.com/wp-content/uploads/2020/07/02065122/logo-rishtey.png" group-title="Undefined",Colors RISTEY
+http://66.northerniptv.ca:8000/jacob123/jacob123/1186
+
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Drama 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 
@@ -573,8 +576,23 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvca
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia HD
+http://66.northerniptv.ca:8000/jacob123/jacob123/7325
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max USA HD
+http://66.northerniptv.ca:8000/craig/craig123/3815
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max2 Asia
 http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max2 Asia HD
+http://66.northerniptv.ca:8000/jacob123/jacob123/4241
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max2 USA HD
+http://66.northerniptv.ca:8000/craig/craig123/4241
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl
+http://66.northerniptv.ca:8000/craig/craig123/59819
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
@@ -587,6 +605,12 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV SD
+http://66.northerniptv.ca:8000/jacob123/jacob123/4368
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV HD
+http://66.northerniptv.ca:8000/craig/craig123/1199
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
