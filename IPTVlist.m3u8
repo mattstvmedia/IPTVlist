@@ -267,8 +267,11 @@ http://x.xtv.life:80/sever2020/2020sever/10045461?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Undefined",CineMAX
 http://193.33.39.108:8107/30709
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 
-http://185.236.229.2:8000/play/a05m/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV INDIA
+http://66.northerniptv.ca:8000/jacob123/jacob123/3840
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV INDIA 2
+http://66.northerniptv.ca:8000/kwabena/kwabena1/3811
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",The Q TV
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
@@ -279,8 +282,6 @@ http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.wbitvp.com/resources/images/pages/login/WB_Logo.png" group-title="Undefined",Warner Brotherz WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTVU
-http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8?checkedby:iptvcat.com
 
 
 
@@ -503,7 +504,10 @@ http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies Sd
-http://reds.ppdn.tn/iptv/ch1733?code=840016827610293&key=48766
+http://66.northerniptv.ca:8000/kwabena/kwabena1/3841
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies 2
+http://66.northerniptv.ca:8000/jacob123/jacob123/7319
 
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Music",B4U Kadak IN
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
@@ -525,8 +529,11 @@ https://playlive.goonj.pk/ltnweb_480p/index.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors HD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors 
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors HD 
+http://66.northerniptv.ca:8000/jacob123/jacob123/6902
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Drama 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
