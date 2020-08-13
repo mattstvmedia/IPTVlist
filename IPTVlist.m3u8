@@ -369,8 +369,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 #EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET SD
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET HD¹
-http://akamaizedx.com:80/lulalele/1324zcbv/5902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET Hindi
+http://stariptv.top:2086/00/00/19769
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",Animal Planet
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
@@ -593,6 +593,9 @@ http://66.northerniptv.ca:8000/craig/craig123/4241
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl
 http://66.northerniptv.ca:8000/craig/craig123/59819
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl SD
+http://66.northerniptv.ca:8000/jacob123/jacob123/59819
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
