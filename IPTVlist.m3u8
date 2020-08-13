@@ -326,7 +326,11 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://akamaizedx.com:80/lulalele/1324zcbv/9610?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub
-http://201.87.232.214:25461/marcondes/101010/16426?checkedby:iptvcat.com
+http://stariptv.top:2086/00/00/19763
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub Hindi
+http://stariptv.top:2086/00/00/20481
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO Xtreme HD.
 http://201.87.232.214:25461/marcondes/101010/14185?checkedby:iptvcat.com
@@ -538,6 +542,9 @@ http://66.northerniptv.ca:8000/jacob123/jacob123/6902
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorsrishtey.com/wp-content/uploads/2020/07/02065122/logo-rishtey.png" group-title="Undefined",Colors RISTEY
 http://66.northerniptv.ca:8000/jacob123/jacob123/1186
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Undefined",Colors Infinity
+http://stariptv.top:2086/00/00/27704
+
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Drama 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 
@@ -608,6 +615,9 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV 2
+http://stariptv.top:2086/2743/2743/22888
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV SD
 http://66.northerniptv.ca:8000/jacob123/jacob123/4368
@@ -689,6 +699,12 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvca
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema HD
+http://stariptv.top:2086/2743/2743/19799
+
+
+
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
 
@@ -697,6 +713,9 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?checkedby:iptvcat.
 
 #EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zee TV RU
 http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="Кино",Zee ETC
+http://stariptv.top:2086/2743/2743/9586
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-country="IN" tvg-url="" group-title="",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
