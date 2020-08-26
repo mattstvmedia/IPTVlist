@@ -328,6 +328,18 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN .::4K
 http://akamaizedx.com:80/lulalele/1324zcbv/9610?checkedby:iptvcat.com
 
+#EXTINF:-1, IN: SONY SIX HD
+http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
+
+#EXTINF:-1,ME: MBC MAX HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,IN: MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+
+#EXTINF:-1,IN: STAR MOVIES SELECT HD
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8?auth=zarin:RJsKR
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub
 http://stariptv.top:2086/00/00/19763
 
@@ -383,7 +395,7 @@ http://stariptv.top:2086/00/00/19769
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",Animal Planet FHD
-http://akamaizedx.com:80/lulalele/1324zcbv/17390?checkedby:iptvcat.com
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -406,8 +418,8 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD¹
-http://akamaizedx.com:80/lulalele/1324zcbv/10039474?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?checkedby:rockettvapk.blogspot.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Investigation Discovery
 http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.com
@@ -415,14 +427,15 @@ http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY HD
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/880
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY HD IDXTRA
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/878
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/877
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD NETWORK HD¹
-http://akamaizedx.com:80/lulalele/1324zcbv/5922?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Undefined",History Channel 
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
@@ -542,6 +555,9 @@ http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors 
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors 2
+http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
 
@@ -553,6 +569,9 @@ http://66.northerniptv.ca:8000/jacob123/jacob123/1186
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Undefined",Colors Infinity
 http://stariptv.top:2086/00/00/27704
+
+#EXTINF:-1, IN: MAHA MOVIES
+https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Drama 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
@@ -568,6 +587,9 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvc
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS SD
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS 
+https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="Undefined",STAR WORLD (IN):-
@@ -614,7 +636,8 @@ http://66.northerniptv.ca:8000/craig/craig123/59819
 http://66.northerniptv.ca:8000/jacob123/jacob123/59819
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
-http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+http://103.205.133.44:1935/live/sonyhdcm/chunklist_w2017054269.m3u8
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia SD
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
@@ -710,7 +733,6 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema HD
 http://stariptv.top:2086/2743/2743/19799
-
 
 
 
