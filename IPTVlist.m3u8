@@ -254,6 +254,9 @@ https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Bugs_Bunny.svg" group-title="Undefined",SUPER RTL(Bugs Bunny)
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
 
+#EXTINF:-1,IN: SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
 ====================================================================================================================================================
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="Undefined",WWE NETWOK
 http://x.xtv.life:80/sever2020/2020sever/10039687?checkedby:iptvcat.com
@@ -397,6 +400,9 @@ http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Undefined",NAT GEOGRAPHIC WILD
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
 
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" ,ASIA: NAT GEO
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?checkedby:iptvcat.com
 
@@ -535,6 +541,9 @@ http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors 
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors HD 
 http://66.northerniptv.ca:8000/jacob123/jacob123/6902
@@ -732,8 +741,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,INT: N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 
-#EXTINF:-1,IN: SHEMARRO KIDS
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
 
 #EXTINF:-1,USA: WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8 
@@ -741,8 +749,7 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1,PK: GTV HD
 http://43.251.86.2:8080/hls/channel_1.m3u8
 
-#EXTINF:-1,ASIA: NAT GEO
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+
 
 
 
