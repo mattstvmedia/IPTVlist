@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music" ,IN: 9X JALAWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/2013-01-01_1835.jpg" group-title="Movie",Movie One
 https://cdn5.mjunoon.tv:8087/web/movie-one-176/live/176M/chunks.m3u8?nimblesessionid=298884366&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNTowNDo1MCBQTSZoYXNoX3ZhbHVlPXhXQUlSRU1BbEIxTjRRRmI1S3Q2M0E9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
@@ -136,8 +139,11 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ISAAC TV (Urdu TV Toronto)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AZ" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network Rus
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1,IN: DISCOVERY KIDS
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network USTVGO.tv
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
@@ -151,8 +157,9 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
 
+
 #EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network HD.
-http://201.87.232.214:25461/marcondes/101010/13908?checkedby:iptvcat.com
+http://flusonic-1.platinum-tv.com/cartoon_network/index.m3u8?token=test&lang=eng
 
 #EXTINF:0 tvg-country="TR" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
@@ -178,7 +185,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
 https://peer7.ustv24h.live/StarZ/myStream/chunks.m3u8?nimblesessionid=26891339&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6MDA6MjMgQU0maGFzaF92YWx1ZT1SV3VDZ1FOdTY5Vkw0ZnBHTWVVNmJBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Undefined",DISNEY XD US TV
-http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11548?checkedby:iptvcat.com  
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/Disney_Junior_(Latin_American_TV_channel)#/media/File:CanalDisneyJuniorLA.png" group-title="Undefined",DISNEY JUNIOR USTV
 http://xtream.mixbox.tv:25461/erdem123/erdem123/889?checkedby:iptvcat.com
@@ -226,10 +233,10 @@ http://stariptv.top:2086/87025/87025/17864?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DBZ Super
 http://lista.powerchannels.club:80/rebeca/123456/73932?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",Dragon Ball Z Kai (Opt-2)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="kids",Dragon Ball Z Kai (Opt-2)
 http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="Sport",DRAGON BALL KAI TV
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="kids",DRAGON BALL KAI TV
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H Dungon And Dragon
@@ -328,8 +335,29 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN .::4K
 http://akamaizedx.com:80/lulalele/1324zcbv/9610?checkedby:iptvcat.com
 
+#EXTINF:-1,IN: SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+
+#EXTINF:-1,IN: D SPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+
 #EXTINF:-1, IN: SONY SIX HD
 http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
+
+#EXTINF:-1,IN: &FLIX
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 
 #EXTINF:-1,ME: MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:hlscat.com
@@ -342,6 +370,10 @@ http://103.214.202.218:8081/live/starsports1/chunks.m3u8?auth=zarin:RJsKR
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub
 http://stariptv.top:2086/00/00/19763
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO Movie
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HBO HD Dub Hindi
 http://stariptv.top:2086/00/00/20481
@@ -452,8 +484,11 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?checkedby:iptv
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Undefined",HISTORY CHANNEL Hindi
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD+
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Viasat History HD+
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
+
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
 
 
 #EXTINF:-1 ,Star Movies HD Middle East
@@ -484,6 +519,9 @@ https://www.djing.com/tv/animation.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Zoom HD
 http://176.10.117.3:5000/play/a02t?checkedby:iptvcat.com
+
+#EXTINF:-1,IN: MUSIC INDIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/2034.png",Star Life ok
 http://reds.ppdn.tn/iptv/ch2034?code=840016827610293&key=23391
@@ -526,6 +564,9 @@ http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies 2
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies Sd
 http://66.northerniptv.ca:8000/kwabena/kwabena1/3841
 
@@ -545,6 +586,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://humraaz.tv/wp-content/uploads/2019/04/cropped-Humraaz-TV-Logo-1-1.png" tvg-country="PK" tvg-url="" group-title="Pakistan",Humraaz
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
 https://playlive.goonj.pk/ltnweb_480p/index.m3u8
@@ -614,6 +657,9 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvca
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia HD
 http://66.northerniptv.ca:8000/jacob123/jacob123/7325
 
@@ -660,11 +706,22 @@ http://66.northerniptv.ca:8000/craig/craig123/1199
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,PK: HUM SITARY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Tv
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/chunklist_w749564548_b748000_slEng.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Sd
+http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
+
+
+
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Ptv_bolan.jpg/220px-Ptv_bolan.jpg",PTV Bolan
 https://streams.simpaisa.com:8443/pitvlive3/ptvbolan.smil/chunklist_w574952439_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvfamily/ptvnational.png",PTV National
 https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/chunklist_w2103022165_b748000_slEng.m3u8
@@ -736,6 +793,7 @@ http://stariptv.top:2086/2743/2743/19799
 
 
 
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8?checkedby:iptvcat.com
 
@@ -757,12 +815,17 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-country="in" tvg-logo="https://www.cableman.ru/sites/default/files/zee.png?1530111592" group-title="Кино" ,IN: ZING
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+
+#EXTINF:-1,IN: MUSIC INDIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
+
 #EXTINF:-1,UK: ZEE LIVING
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,INT: N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-
 
 
 #EXTINF:-1,USA: WWE
