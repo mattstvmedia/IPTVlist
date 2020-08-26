@@ -634,6 +634,10 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS 
 https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HQ
+http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="Undefined",STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
@@ -684,6 +688,8 @@ http://66.northerniptv.ca:8000/jacob123/jacob123/59819
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
 http://103.205.133.44:1935/live/sonyhdcm/chunklist_w2017054269.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HQ
+http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia SD
 http://103.214.202.218:8081/live/sony-40/chunks.m3u8
