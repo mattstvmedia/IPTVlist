@@ -23,18 +23,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,IN: DD NEWS
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1,INT: HUSTLER HD
-http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
-#EXTINF:-1,INT: BIG DICK
-http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
-#EXTINF:-1,INT: BRUNETTE
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1,INT: GAY
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1,INT: TEEN
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1,INT: PORN STAR 
-http://live.redtraffic.xyz/pornstar.m3u8
+
 #EXTINF:-1,IN: D SPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,ME: SPORTS MAX
@@ -245,8 +234,7 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,INT: BTV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1,INT: SEX TV
-http://188.35.9.26:5031/udp/058j
+
 #EXTINF:-1,IN: REMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,USA: HDFashion & LifeStyle
@@ -925,12 +913,7 @@ http://103.141.66.36/bpk-tv/10106/default/index.m3u8
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 #EXTINF:-1,PK: PTV WORLD
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
-#EXTINF:-1,INT: sex
-http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6220/index.m3u8
-#EXTINF:-1,INT: SEX
-http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6196/index.m3u8
-#EXTINF:-1,INT: SEX
-https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+
 #EXTINF:-1,ASIA: HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,IN: ZEE TV
@@ -1097,8 +1080,7 @@ http://singamcloud.in/rasimusic/playlist.m3u8
 http://singamcloud.in/rasitv/playlist.m3u8
 #EXTINF:-1,IN: Raasi Movies
 http://singamcloud.in/rasimovies/playlist.m3u8
-#EXTINF:-1,UK: SEX TREME
-http://148.69.92.171:4022/udp/239.100.28.18:1234
+
 #EXTINF:-1,IN: MK SIX
 http://103.141.66.36/bpk-tv/10082/default/index.m3u8
 #EXTINF:-1,IN: BANGLA TALKIES
