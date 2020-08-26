@@ -721,9 +721,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Ptv_bolan.jpg/220px-Ptv_bolan.jpg",PTV Bolan
 https://streams.simpaisa.com:8443/pitvlive3/ptvbolan.smil/chunklist_w574952439_b748000_slEng.m3u8
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvfamily/ptvnational.png",PTV National
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="hhttps://ptv.com.pk/user/assets/images/ptv-logo.jpg",PTV National
 https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/chunklist_w2103022165_b748000_slEng.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvworldlogo.png",PTV World
