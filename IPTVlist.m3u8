@@ -2,6 +2,8 @@
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
 
+
+
 #EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music" ,IN: 9X JALAWA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
 
@@ -157,6 +159,8 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
 
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Junoon.Tv
+https://cdn7.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=6025086&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6MDA6MDggUE0maGFzaF92YWx1ZT1WZE1LNnZrUlVlRDlSK2MrdVVwS3ZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:0 tvg-country="UN" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network HD.
 http://flusonic-1.platinum-tv.com/cartoon_network/index.m3u8?token=test&lang=eng
