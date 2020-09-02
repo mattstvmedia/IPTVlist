@@ -188,6 +188,10 @@ http://flusonic-1.platinum-tv.com/cartoon_network/index.m3u8?token=test&lang=eng
 #EXTINF:0 tvg-country="TR" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Marvel_HQ_logo.svg" group-title="Undefined",Marvel HQ Hindi [SD]
+http://165.22.72.204:5331/kids2019/marvelhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjAgMzoxMjoyNiBQTSZoYXNoX3ZhbHVlPXllaFZHeTEwZ0ZXdmdDZlo5QmpYcnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Portuguese",Nickelodeon SQ
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
