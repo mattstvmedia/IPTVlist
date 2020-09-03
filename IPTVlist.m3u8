@@ -445,6 +445,12 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 
 ===================================================================================================================================================
 
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Canada(181)",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby 
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Canada(181)",Amazing Discoveries TV,CA | Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby 
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="Undefined",ANIMAL PLANET SD
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
 
@@ -609,6 +615,12 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="India(146)",BollyWood Hd Films
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby 
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="India(146)",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby 
 
 =================================================================================================================================
 
