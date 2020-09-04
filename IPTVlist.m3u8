@@ -187,6 +187,11 @@ https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
 http://hdonline.ml:80/y1/y1/7037
 
+#EXTINF:-1 ,Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+
+#EXTINF:-1 ,Lollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 
 
 
@@ -401,9 +406,14 @@ https://cdn.alarab.com/480/123230_480p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",batman
 https://cdn.alarab.com/h264/151736_720p.mp4/index-v1-a1.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 ,Teen Titans Go! Vs. Teen Titans (2019)
+https://www.googleapis.com/drive/v3/files/1u86ZbOD6uNqaQbxU4ROc-Km0ha7jjndP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 ,Tom and Jerry's Giant Adventure (2013)
 http://newtube.ps/components/com_contushdvideoshare/videos/624405730.mp4
 
+#EXTINF:-1 ,ANIMAX (2)
+http://45.126.83.51/dr9445/h/h144/01.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Bugs_Bunny.svg" group-title="Undefined",SUPER RTL(Bugs Bunny)
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
