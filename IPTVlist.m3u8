@@ -339,70 +339,6 @@ http://196.179.225.154:10001/stream/channelid/1284278211?profile=pass
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.wbitvp.com/resources/images/pages/login/WB_Logo.png" group-title="Undefined",Warner Brotherz WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
-
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/225px-TCM_logo.svg.png" group-title="Undefined",Turner Classic Movies (TCM)
-https://peer3.ustv24h.live/TCM/myStream/chunks.m3u8?nimblesessionid=31558096&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6NDQ6MzYgQU0maGFzaF92YWx1ZT1Da2YzSkIzRVExRmVKVngrZ2xlSlF3PT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2
-http://akamaizedx.com:80/lulalele/1324zcbv/10047731?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime
-http://akamaizedx.com:80/lulalele/1324zcbv/10047732?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Film1 Family FHD
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/243.ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FILM1Action
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/242.ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat Film Action HD
-http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3711?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", Classic English Old films
-https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS FHD H265
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN .::4K
-http://akamaizedx.com:80/lulalele/1324zcbv/9610?checkedby:iptvcat.com
-
-#EXTINF:-1,IN: SONY TEN 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
-
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
-
-#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
-
-#EXTINF:-1,IN: STAR SPORTS 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
-
-#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-
-#EXTINF:-1,IN: D SPORTS
-http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
-
-#EXTINF:-1, IN: SONY SIX HD
-http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
-
 #EXTINF:-1,IN: &FLIX
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 
@@ -479,6 +415,73 @@ http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9168?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8?checkedby:iptvcat.com
+
+
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/225px-TCM_logo.svg.png" group-title="Undefined",Turner Classic Movies (TCM)
+https://peer3.ustv24h.live/TCM/myStream/chunks.m3u8?nimblesessionid=31558096&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjAgMTE6NDQ6MzYgQU0maGFzaF92YWx1ZT1Da2YzSkIzRVExRmVKVngrZ2xlSlF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2
+http://akamaizedx.com:80/lulalele/1324zcbv/10047731?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime
+http://akamaizedx.com:80/lulalele/1324zcbv/10047732?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Film1 Family FHD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/243.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",FILM1Action
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/242.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat Film Action HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/3711?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined", Classic English Old films
+https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8?checkedby:iptvcat.com
+
+==========================================================================================================================================
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS FHD H265
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN .::4K
+http://akamaizedx.com:80/lulalele/1324zcbv/9610?checkedby:iptvcat.com
+
+#EXTINF:-1,IN: SONY TEN 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+
+#EXTINF:-1,IN: D SPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+
+#EXTINF:-1, IN: SONY SIX HD
+http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
+
 
 ===================================================================================================================================================
 
