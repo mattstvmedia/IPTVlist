@@ -11,6 +11,12 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
 #EXTINF:-1 tvg-country="PK" tvg-logo="http://www.9xjalwa.in/img/logo-9xm.png" group-title="Music" ,IN: 9X JALAWA SD
 https://cdn6.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=6023371&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6MDY6NTAgUE0maGFzaF92YWx1ZT13ZzRUK0hvT2FBVWc1VmtBNGhwY0pBPT0mdmFsaWRtaW51dGVzPTE=
 
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music" ,IN: 9XM SD
+http://103.205.133.14/hls/9xm.m3u8
+
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music" ,IN: 9XM HQ
+http://103.205.133.19/hls/9xm.m3u8
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://jalwa.tv/wp-content/uploads/2019/09/logo2.png" group-title="Music",Jalwa Tv
 https://cdn7.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=5684477&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgNTowMTowNCBQTSZoYXNoX3ZhbHVlPXh6ZWdtWG9OVXRoUDVTblVrUFI3cWc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
@@ -98,10 +104,12 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="Undefined",Geo News HD
-ttps://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
+http://103.205.133.19/hls/geonews.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="Undefined",Geo News HQ
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp2/chunks.m3u8
+http://103.205.133.14/hls/geonews.m3u8
+
+
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="Undefined",Makkah Live
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8?checkedby:iptvcat.com
@@ -341,6 +349,13 @@ http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
 #EXTINF:-1,IN: &FLIX
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
+
+#EXTINF:-1 ,& Pictures
+http://103.205.133.14/hls/andpicture.m3u8
+
+#EXTINF:-1 ,& Pictures HD
+http://103.205.133.19/hls/andpicture.m3u8
+
 
 #EXTINF:-1 ,MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
