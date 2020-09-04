@@ -100,6 +100,98 @@ https://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Undefined",Geo Kahani
 http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://humraaz.tv/wp-content/uploads/2019/04/cropped-Humraaz-TV-Logo-1-1.png" tvg-country="PK" tvg-url="" group-title="Pakistan",Humraaz
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
+https://playlive.goonj.pk/ltnweb_480p/index.m3u8
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
+http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1 HQ
+https://cdn6.mjunoon.tv:8087/web/Urdu1-158-4/live/158-4M/chunks.m3u8?nimblesessionid=6024734&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6NDc6NDcgUE0maGFzaF92YWx1ZT04U0J5YlR1c1FESGVkdVBvdEpGbFp3PT0mdmFsaWRtaW51dGVzPTE=
+
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Tv
+https://streams.simpaisa.com:8443/pitvlive3/masala.smil/chunklist_w749564548_b748000_slEng.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Sd
+http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
+
+
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Ptv_bolan.jpg/220px-Ptv_bolan.jpg",PTV Bolan
+https://streams.simpaisa.com:8443/pitvlive3/ptvbolan.smil/chunklist_w574952439_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="hhttps://ptv.com.pk/user/assets/images/ptv-logo.jpg",PTV National
+https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/chunklist_w2103022165_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvworldlogo.png",PTV World
+https://streams.simpaisa.com:8443/pitvlive3/ptvworld.smil/chunklist_w1169719497_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvhomelogo.png",PTV Home
+https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://sports.ptv.com.pk/public/user/assets/images/ptvsportslogo.png",PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDq/chunklist.m3u8
+
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV ENG
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-country="AL" tvg-url="" group-title="Albanian",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/filmbox.png",FilmBox
+http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258d604bfe2-1596744640-2i141i381i281
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/paramount-channel.png",Paramount Channel
+http://50.7.222.90:8081/param_chanel/index.m3u8?wmsAuthSign=cab97bd4ba1bc1cda2c2a88706df09db-1596742822-2i141i381i281
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png",Play Entertainment
+https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/chunklist_w1225187589_b748000_slEng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png",HUM Sitare
+https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/chunklist_w293327605_b748000_slEng.m3u8??
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png",HUM Sitare HQ
+http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="http://aryfamily.co.uk/uploads/2018/01/70x84.png" group-title="Undefined",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UN" tvg-logo="http://aryfamily.co.uk/uploads/2018/01/70x84.png" group-title="Undefined",ARY Family HQ
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://aryqtv.tv/wp-content/uploads/2018/04/ARY-QTV-Logo.jpg" group-title="Undefined",ARY QTV
+https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Undefined",ARY Zindagi
+https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="Undefined",ARY Musik
+https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
+http://hdonline.ml:80/y1/y1/7037
+
+
+
+
+
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="News",Geo News SD
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
@@ -383,6 +475,9 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 ,Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1 ,Hits 2
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
 
 #EXTINF:-1,IN: STAR MOVIES SELECT HD
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8?auth=zarin:RJsKR
@@ -705,19 +800,6 @@ https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:iptvcat.com
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://humraaz.tv/wp-content/uploads/2019/04/cropped-Humraaz-TV-Logo-1-1.png" tvg-country="PK" tvg-url="" group-title="Pakistan",Humraaz
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
-https://playlive.goonj.pk/ltnweb_480p/index.m3u8
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
-http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1 HQ
-https://cdn6.mjunoon.tv:8087/web/Urdu1-158-4/live/158-4M/chunks.m3u8?nimblesessionid=6024734&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6NDc6NDcgUE0maGFzaF92YWx1ZT04U0J5YlR1c1FESGVkdVBvdEpGbFp3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Undefined",Colors 
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
@@ -847,80 +929,6 @@ http://66.northerniptv.ca:8000/jacob123/jacob123/4368
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV HD
 http://66.northerniptv.ca:8000/craig/craig123/1199
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,PK: HUM SITARY
-http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Tv
-https://streams.simpaisa.com:8443/pitvlive3/masala.smil/chunklist_w749564548_b748000_slEng.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.masala.tv/wp-content/uploads/2019/12/masala-logo.png", HUM Masala Sd
-http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
-
-
-
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Ptv_bolan.jpg/220px-Ptv_bolan.jpg",PTV Bolan
-https://streams.simpaisa.com:8443/pitvlive3/ptvbolan.smil/chunklist_w574952439_b748000_slEng.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="hhttps://ptv.com.pk/user/assets/images/ptv-logo.jpg",PTV National
-https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/chunklist_w2103022165_b748000_slEng.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvworldlogo.png",PTV World
-https://streams.simpaisa.com:8443/pitvlive3/ptvworld.smil/chunklist_w1169719497_b748000_slEng.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvhomelogo.png",PTV Home
-https://streams.simpaisa.com:8443/pitvlive3/ptvhome.smil/chunklist_w1458109781_b748000_slEng.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://sports.ptv.com.pk/public/user/assets/images/ptvsportslogo.png",PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-
-
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV Urdu
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDq/chunklist.m3u8
-
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Undefined",Peace TV ENG
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-country="AL" tvg-url="" group-title="Albanian",Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/filmbox.png",FilmBox
-http://50.7.120.165:8081/filmbox/index.m3u8?wmsAuthSign=e1121c8b52a781a706177258d604bfe2-1596744640-2i141i381i281
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/paramount-channel.png",Paramount Channel
-http://50.7.222.90:8081/param_chanel/index.m3u8?wmsAuthSign=cab97bd4ba1bc1cda2c2a88706df09db-1596742822-2i141i381i281
-
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Play_Entertainment_logo.png/220px-Play_Entertainment_logo.png",Play Entertainment
-https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/chunklist_w1225187589_b748000_slEng.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png",HUM Sitare
-https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/chunklist_w293327605_b748000_slEng.m3u8??
-
-#EXTINF:0 tvg-country="UN" tvg-logo="http://aryfamily.co.uk/uploads/2018/01/70x84.png" group-title="Undefined",ARY Family
-http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="http://aryfamily.co.uk/uploads/2018/01/70x84.png" group-title="Undefined",ARY Family HQ
-http://95.211.211.168/live/aryfamily0071/playlist.m3u8
-
-#EXTINF:0 tvg-country="UN" tvg-logo="https://aryqtv.tv/wp-content/uploads/2018/04/ARY-QTV-Logo.jpg" group-title="Undefined",ARY QTV
-https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-country="UN" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Undefined",ARY Zindagi
-https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-country="UN" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="Undefined",ARY Musik
-https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-country="UN" tvg-logo="https://www.arydigital.tv/wp-content/uploads/2014/12/digital-logo.gif" group-title="Undefined",ARY Digital
-http://hdonline.ml:80/y1/y1/7037
-
-
-
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Undefined",ZEE BOLLYWOOD
