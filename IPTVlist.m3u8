@@ -743,7 +743,8 @@ https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HQ
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 
-
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Undefined",STAR PLUS HHQ
+http://pioneer.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png" group-title="Undefined",STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
@@ -764,17 +765,37 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Undefined",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Undefined",Star Bharat HQ
+http://103.205.133.14/hls/starbharat.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Undefined",Star Bharat SD
+http://103.205.133.19/hls/starbharat.m3u8
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
+http://103.205.133.44:1935/live/sonyhdcm/chunklist_w2017054269.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HQ
+http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia SD
+http://103.214.202.218:8081/live/sony-40/chunks.m3u8
+
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia SD
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max Asia HD
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia HD
 http://66.northerniptv.ca:8000/jacob123/jacob123/7325
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Ent. Max USA HD
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia USA HD
 http://66.northerniptv.ca:8000/craig/craig123/3815
+
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 Asia
 http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
@@ -785,20 +806,14 @@ http://66.northerniptv.ca:8000/jacob123/jacob123/4241
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 USA HD
 http://66.northerniptv.ca:8000/craig/craig123/4241
 
+
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl
 http://66.northerniptv.ca:8000/craig/craig123/59819
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl SD
 http://66.northerniptv.ca:8000/jacob123/jacob123/59819
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
-http://103.205.133.44:1935/live/sonyhdcm/chunklist_w2017054269.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HQ
-http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
-
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia SD
-http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",,IN: SONY YAY 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8 
@@ -893,8 +908,15 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvca
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema HD
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema HQ
 http://stariptv.top:2086/2743/2743/19799
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE Cinema HD
+http://103.205.133.14/hls/zeecinema.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE Cinema HD!
+http://103.205.133.19/hls/zeecinema.m3u8
+
 
 
 
