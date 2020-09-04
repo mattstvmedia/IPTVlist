@@ -421,6 +421,12 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:hlscat.com
 #EXTINF:-1,IN: MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
+#EXTINF:-1 ,MNX HQ
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1 ,Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
 #EXTINF:-1,IN: STAR MOVIES SELECT HD
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8?auth=zarin:RJsKR
 
@@ -647,8 +653,18 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="India(146)",BollyWood Hd Films
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby 
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="India(146)",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby 
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Undefined",Bollywood Classic HQ
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="Undefined",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:iptvcat.com
 
 =================================================================================================================================
 
@@ -850,14 +866,7 @@ http://hdonline.ml:80/y1/y1/7037
 
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Undefined",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="Undefined",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Undefined",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvcat.com
@@ -885,6 +894,8 @@ http://stariptv.top:2086/2743/2743/9586
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-country="IN" tvg-url="" group-title="",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+
+
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
