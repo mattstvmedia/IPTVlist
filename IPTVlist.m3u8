@@ -795,6 +795,10 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
+#EXTINF:0,WoW CINEMA
+#EXTVLCOPT:network-caching=1000
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="India(146)",BollyWood Hd Films
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby 
 
@@ -978,7 +982,8 @@ http://stariptv.top:2086/2743/2743/9586
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-country="IN" tvg-url="" group-title="",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-country="IN" tvg-url="" group-title="",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Undefined",Zee TV India
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
