@@ -387,6 +387,10 @@ http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Dragon_Ball_Kai_Poster_Art.PNG" group-title="kids",DRAGON BALL KAI TV
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?checkedby:iptvcat.com
 
+#EXTINF:0,Dragon Ball Z: Fusion Reborn (1995)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1RPyTZa40TNtajJ5cufApods2jMCmcfRR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24H Dungon And Dragon
 http://lista.powerchannels.club:80/rebeca/123456/73931?checkedby:iptvcat.com
 
