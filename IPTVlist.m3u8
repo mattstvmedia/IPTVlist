@@ -111,6 +111,9 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family
 https://playlive.goonj.pk/ltnweb_480p/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="Pakistan",LTN Family HQ
+http://165.232.120.72:3265/pak2020/ltnfamily/chunks.m3u8?nimblesessionid=1219386&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjAgMTA6NTY6MjUgQU0maGFzaF92YWx1ZT1ndk83UTNYemRhMUNjVE5sMEhDZjh3PT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="Undefined",Urdu 1
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
 
