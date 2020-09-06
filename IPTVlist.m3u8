@@ -75,6 +75,9 @@ https://cdn5.mjunoon.tv:8087/web/EXP-ENT-159-1/live/159-1M/chunks.m3u8?nimbleses
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="Undefined",Express TV SD
 https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="Undefined",Express TV HQ
+https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/chunklist_w1267584704_b1548000_slENG.m3u8
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/ti3KObC.png" group-title="Undefined",Express TV
 https://cdn5.mjunoon.tv:8087/web/ExpressNews-155/live/155M/chunks.m3u8?nimblesessionid=299926096&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6MjY6NTcgUE0maGFzaF92YWx1ZT1kNzFEL2hqVkxkT3loOVZDOEhxU09BPT0mdmFsaWRtaW51dGVzPTE=
 
@@ -83,7 +86,7 @@ https://cdn5.mjunoon.tv:8087/web/ExpressNews-155/live/155M/chunks.m3u8?nimbleses
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Undefined",Film World SD
-http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com
+https://streams.simpaisa.com:8443/pitvlive3/filmworld.smil/chunklist_w1895344326_b748000_slEng.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Undefined",Filmax SD
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8?checkedby:iptvcat.com
@@ -287,6 +290,9 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,IN: DISCOVERY KIDS
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 
+#EXTINF:-1,IN: DISCOVERY KIDS Hq
+https://streams.simpaisa.com:8443/pitvlive3/discoverykid.smil/chunklist_w627322965_b1548000_slENG.m3u8
+
 #EXTINF:0 tvg-country="AZ" tvg-logo="http://only-tv.org/images/cartoon_network.png" group-title="Undefined",Cartoon Network SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 
@@ -296,11 +302,13 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Urdu
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
 
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network HQ
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network ENG
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/chunklist_w1098971632_b748000_slEng.m3u8
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://only-tv.org/images/cartoon_network.png",Cartoon Network Junoon.Tv
 https://cdn7.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=6025086&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6MDA6MDggUE0maGFzaF92YWx1ZT1WZE1LNnZrUlVlRDlSK2MrdVVwS3ZBPT0mdmFsaWRtaW51dGVzPTE=
@@ -421,6 +429,8 @@ http://newtube.ps/components/com_contushdvideoshare/videos/624405730.mp4
 
 #EXTINF:-1 ,ANIMAX (2)
 http://45.126.83.51/dr9445/h/h144/01.m3u8
+
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Bugs_Bunny.svg" group-title="Undefined",SUPER RTL(Bugs Bunny)
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
