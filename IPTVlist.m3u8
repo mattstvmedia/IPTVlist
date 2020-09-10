@@ -949,17 +949,16 @@ http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia HQ
-https://mystreamer29.digitalcloudbuzz.com/api/jenni/media.m3u8?d=linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/69ed2895-1d73-4d66-a776-7f84e19db848:SIN/variant/252ef1bc3358fd3b57280b3484c06dba/bandwidth/hdntl=exp=1599493854~acl=%2f*~id=63d3eeef-9e45-49d9-9607-cc4939284bc2~data=hdntl~hmac=c9241b845ef6543ab8b64b2d82ae18bf5acd8e8d8f6ca0c13bc5709230158219/4571600.m3u8
+http://f.ok2.se:8000/Javed/Javed1/7325
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia HQ 2
-https://livestream3.digitalcloudbuzz.com/api/jenni/media.m3u8?id=2011745&cid=SonyMaxSD&hdntl=exp=1599494114~acl=%2f*~data=hdntl~hmac=4a27802b56161253f83f3e8f4c2afeaf59a2825e5d81a0d472eaaccecc30652d/master_3500.m3u8
+http://f.ok2.se:8000/victor1/victor123/7325
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia HD
-http://66.northerniptv.ca:8000/jacob123/jacob123/7325
+http://66.northerniptv.ca:8000/shelley321/shelley321/7325
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia USA HD
-http://66.northerniptv.ca:8000/craig/craig123/3815
-
+http://f.ok2.se:8000/martin1/martin123/7325
 
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 Asia
