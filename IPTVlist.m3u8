@@ -816,6 +816,12 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies HQ
+http://f.ok2.se:8000/Fonzi/Fonzi/3841
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Movies SQ
+http://f.ok2.se:8000/victor1/victor123/3841
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies Sd
 http://66.northerniptv.ca:8000/kwabena/kwabena1/3841
 
@@ -997,7 +1003,10 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?checkedby:iptvca
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema HQ
-http://stariptv.top:2086/2743/2743/19799
+http://f.ok2.se:8000/Fonzi/Fonzi/1197
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE cinema SQ
+http://f.ok2.se:8000/joseph01/joseph02/1197
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE Cinema HD
 http://103.205.133.14/hls/zeecinema.m3u8
