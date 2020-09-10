@@ -986,10 +986,10 @@ http://66.northerniptv.ca:8000/shelley321/shelley321/59819
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8 
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+http://f.ok2.se:8000/joseph01/joseph02/4368
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV 2
-http://stariptv.top:2086/2743/2743/22888
+http://ok2.se:8000/Gwenette/Gwenette123/4368
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV SD
 http://66.northerniptv.ca:8000/jacob123/jacob123/4368
@@ -1016,8 +1016,8 @@ http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Undefined",ZEE Cinema HD!
 http://103.205.133.19/hls/zeecinema.m3u8
 
-
-
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ZEE SMILE
+http://name2020.ddns.me:25461/ZVS6fRhxIs/QhxN6r9Y50/22272
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Undefined",Zee Mundo Tv
