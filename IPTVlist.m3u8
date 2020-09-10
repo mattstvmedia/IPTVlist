@@ -974,11 +974,13 @@ http://66.northerniptv.ca:8000/craig/craig123/4241
 
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl
-http://66.northerniptv.ca:8000/craig/craig123/59819
+http://f.ok2.se:8000/martin1/martin123/59819
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl SQ
+http://f.ok2.se:8000/Javed/Javed1/59819
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl SD
-http://66.northerniptv.ca:8000/jacob123/jacob123/59819
-
+http://66.northerniptv.ca:8000/shelley321/shelley321/59819
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",,IN: SONY YAY 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8 
