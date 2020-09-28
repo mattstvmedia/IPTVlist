@@ -25,10 +25,10 @@ https://cdn7.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesession
 https://cdn6.mjunoon.tv:8087/web/movie-one-176/live/176M/chunks.m3u8?nimblesessionid=6024123&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6Mjg6MjYgUE0maGFzaF92YWx1ZT0zQ0MzYVd2cXdxRDVwTzcremZiSXNRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News SD
-https://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News HD PLUS
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
@@ -931,8 +931,9 @@ http://103.205.133.14/hls/starbharat.m3u8
 http://103.205.133.19/hls/starbharat.m3u8
 
 
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HD
-http://103.205.133.44:1935/live/sonyhdcm/chunklist_w2017054269.m3u8
+http://198.255.87.59:8080/INDIA_HINDI/SONY_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony SET Ent. TV Asia HQ
 http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
@@ -943,7 +944,7 @@ http://103.214.202.218:8081/live/sony-40/chunks.m3u8
 
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia
-http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
@@ -955,23 +956,26 @@ http://f.ok2.se:8000/Javed/Javed1/7325
 http://f.ok2.se:8000/victor1/victor123/7325
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia HD
-http://66.northerniptv.ca:8000/shelley321/shelley321/7325
+http://185.246.210.54:2200/R-EX/HINDI_SONY_MAX_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1702.png",Sony Max Asia USA HD
 http://f.ok2.se:8000/martin1/martin123/7325
 
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 Asia
-http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 Asia HD
-http://66.northerniptv.ca:8000/jacob123/jacob123/4241
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Max 2 HQ
+http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6525?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 USA HD
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Max2 Asia HD
+https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Max2 USA HD
 http://ok2.se:8000/superman/12345/4241
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Ent. Max2 USA SQ
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png",Sony Max2 USA SQ
 http://f.ok2.se:8000/Javed/Javed1/4241
+
+
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl
 http://f.ok2.se:8000/martin1/martin123/59819
@@ -982,11 +986,15 @@ http://f.ok2.se:8000/Javed/Javed1/59819
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png",Sony PAl SD
 http://66.northerniptv.ca:8000/shelley321/shelley321/59819
 
+
+
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",,IN: SONY YAY 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8 
 
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV
-http://f.ok2.se:8000/joseph01/joseph02/4368
+
+
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV  HQ
+http://198.255.87.59:8080/INDIA_HINDI/SONY_SAB_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1717.png",SAB TV 2
 http://ok2.se:8000/Gwenette/Gwenette123/4368
